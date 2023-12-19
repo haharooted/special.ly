@@ -10,7 +10,7 @@ import { FontAwesome } from '@expo/vector-icons'; // Import for the star icon
 
 
 
-export default function ShopScreenMap() {
+export default function ShopScreenMap({ onMapItemClick }) {
   const [selectedShop, setSelectedShop] = useState(null);
   const [userLocation, setUserLocation] = useState(null);
   const [region, setRegion] = useState({
@@ -21,7 +21,10 @@ export default function ShopScreenMap() {
   });
   const [showDistance, setShowDistance] = useState(false); // New state to control distance display
   const mapRef = useRef(null);
+  const [isMapReady, setIsMapReady] = useState(false); // New state to control map rendering
 
+
+  
   useEffect(() => {
     (async () => {
       let { status } = await Location.requestForegroundPermissionsAsync();
@@ -31,13 +34,17 @@ export default function ShopScreenMap() {
       }
 
       let location = await Location.getCurrentPositionAsync({});
-      setUserLocation(location.coords);
-      // Update region to user's location
-      setRegion({
-        ...region, // Keeps the latitudeDelta and longitudeDelta
+      const userRegion = {
         latitude: location.coords.latitude,
         longitude: location.coords.longitude,
-      });
+        latitudeDelta: 0.070, // Smaller value for closer zoom
+        longitudeDelta: 0.070, // Smaller value for closer zoom
+      };
+      setUserLocation(location.coords);
+      setRegion(userRegion)
+      setIsMapReady(true); // Set map to be ready after obtaining location
+      console.log("user coords ", location.coords)
+      // Update region to user's location
     })();
   }, []);
 
@@ -45,12 +52,20 @@ export default function ShopScreenMap() {
   const onSelectShop = (shop) => {
     setSelectedShop({ ...shop, reviews: shop.reviews.map(r => ({ ...r, expanded: false })) });
     const newRegion = {
-      ...region,
-      latitude: shop.geometry.location.lat,
-      longitude: shop.geometry.location.lng,
+        ...region,
+        latitude: shop.geometry.location.lat,
+        longitude: shop.geometry.location.lng,
     };
     mapRef.current.animateToRegion(newRegion, 1000);
-  };
+
+    // If onMapItemClick is provided, use it and don't set the selectedShop state
+    if (onMapItemClick) {
+        onMapItemClick(shop.name);
+    } else {
+        // This is the case when onMapItemClick is not provided, which means it's not called from MainScreen
+        setSelectedShop(shop);
+    }
+};
 
   const toggleReviewText = (index) => {
     setSelectedShop(prevState => ({
@@ -85,7 +100,7 @@ export default function ShopScreenMap() {
     <MapView
       ref={mapRef}
       style={{ flex: 1 }}
-      initialRegion={region}
+      region={region} // Use 'region' instead of 'initialRegion'
       onRegionChangeComplete={onRegionChangeComplete}
       showsUserLocation={true}
     >
@@ -109,7 +124,7 @@ export default function ShopScreenMap() {
         </Marker>
       ))}
     </MapView>
-      {selectedShop && (
+    {selectedShop && !onMapItemClick && (  // Check if onMapItemClick is not provided
         <View style={styles.cardContainer}>
           <Card containerStyle={styles.card}>
             <ScrollView>
