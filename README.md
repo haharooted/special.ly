@@ -1,16 +1,17 @@
-# hvaskerder
+# Special.ly
 
-For at køre HVA' SKER DER
+For at køre Special.ly
 
 Skal du
 
 
-- git clone git@github.com:haharooted/hvaskerder.git
+- git clone git@github.com:haharooted/specially.git
 
-- cd hvaskerder
+- cd specially
 
 - npm install 
 
-- npm start
+- npm run start
 
 
+git l
