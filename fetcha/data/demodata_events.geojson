@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.572960827019,
+                    55.677505888402
+                ]
+            },
+            "properties": {
+                "name": "H.C. Andersen Christmas market",
+                "loc": "55.677505888402,12.572960827019",
+                "locs_product_location_0___pdouble": 55.677505888402,
+                "locs_product_location_1___pdouble": 12.572960827019,
+                "period_data": "{\"208706\":{\"period_start_date\":\"2023-11-17T00:00:00\",\"period_end_date\":\"2023-12-21T00:00:00\"}}",
+                "parsed_date_start_0": "2023-11-17T00:00:00",
+                "parsed_date_end_0": "2023-12-21T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 24764,
+                "product_category": 58,
+                "category_name": "/Market/Agricultural show",
+                "website": "https://www.julemarked.co",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/hc-andersen-christmas-market-gdk942821",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>A\u00a0fairy tale Christmas market in the heart of Copenhagen</strong></p> <p>The market at Nytorv square is named after everybody's favourite and world-renowned Danish storyteller. The stalls are all named after Hans Christian Andersen\u2019s fairy tales, tastefully decorated with thousands of Christmas lights. You may even get to meet the famous author himself and have your picture taken with him.</p> <p>Here you can taste, smell, and shop everything your Christmas heart desires. You can find Christmas decorations, gifts, jewellery, mulled wine and hot chocolate. The market also has a genuine nostalgia carousel for the kids, a Christmas caravan and of course Santa himself. In Santa's house, the younger family members can join Mrs Claus for some Christmas creativity and make their own decorations.\u00a0</p> <p>A\u00a0fairy tale Christmas market in the heart of Copenhagen.</p> <p>The market at Nytorv square is named after everybody's favourite and world-renowned Danish storyteller. The stalls are all named after Hans Christian Andersen\u2019s fairy tales, tastefully decorated with thousands of Christmas lights. You may even get to meet the famous author himself and have your picture taken with him.</p> <p>Here you can taste, smell, and shop everything your Christmas heart desires. You can find Christmas decorations, gifts, jewellery, mulled wine and hot chocolate. The market also has a genuine nostalgia carousel for the kids, a Christmas caravan and of course Santa himself. In Santa's house, the younger family members can join Mrs. Claus for some Christmas creativity and make their own decorations.\u00a0</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.521109580994,
+                    55.672938160966
+                ]
+            },
+            "properties": {
+                "name": "Christmas market in the Zoo",
+                "loc": "55.672938160966,12.521109580994",
+                "locs_product_location_0___pdouble": 55.672938160966,
+                "locs_product_location_1___pdouble": 12.521109580994,
+                "period_data": "{\"208699\":{\"period_start_date\":\"2023-11-18T00:00:00\",\"period_end_date\":\"2024-01-01T00:00:00\"}}",
+                "parsed_date_start_0": "2023-11-18T00:00:00",
+                "parsed_date_end_0": "2024-01-01T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 14409,
+                "product_category": 58,
+                "category_name": "/Christmas/Christmas Market",
+                "website": "https://www.zoo.dk/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/christmas-market-zoo-gdk1115213",
+                "place": null,
+                "desc": "<p><strong>Copenhagen ZOO opens its doors to a lovely, old-fashioned Christmas. With events for the entire family and cosy market stands, a regular ZOO visit is turned into a magical experience.</strong></p> <p>ZOO lights up during Christmas with gift workshops, crafts, Santa Claus, reindeers, Christmas treats and thousands of twinkling Christmas lights. Their ambition is to set the framework for the perfect family holiday experience.</p> <p>In ZOO you can meet Santa Claus in Santa's House and take a trip with the ZOO-train, which has been transformed into the Christmas train for the time being.<br />There is also the option of making Christmas crafts at Santa's House, and children can make straw animals and even help feed the farm animals in the Children's Zoo.</p> <p>The Christmas atmosphere is complete in the ZOO with 900 Christmas trees spread throughout, as well as reindeer and horses on walking through the park.</p> <p>Of course, there are also gift boxes with crafts, Christmas decorations and small Christmas presents available at the cosy Christmas market, and the opportunity to satisfy the sweet tooth with Danish Christmas treats, gl\u00f6gg, roasted almonds, waffles, cocoa and lots of other Christmas crunch.</p>"
+            }
+        }
+    ]
+}

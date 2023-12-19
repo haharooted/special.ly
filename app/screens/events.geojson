@@ -1,0 +1,2183 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.572960827019,
+                    55.677505888402
+                ]
+            },
+            "properties": {
+                "name": "H.C. Andersen Christmas market",
+                "loc": "55.677505888402,12.572960827019",
+                "locs_product_location_0___pdouble": 55.677505888402,
+                "locs_product_location_1___pdouble": 12.572960827019,
+                "period_data": "{\"208706\":{\"period_start_date\":\"2023-11-17T00:00:00\",\"period_end_date\":\"2023-12-21T00:00:00\"}}",
+                "parsed_date_start_0": "2023-11-17T00:00:00",
+                "parsed_date_end_0": "2023-12-21T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 24764,
+                "product_category": 58,
+                "category_name": "/Market/Agricultural show",
+                "website": "https://www.julemarked.co",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/hc-andersen-christmas-market-gdk942821",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>A\u00a0fairy tale Christmas market in the heart of Copenhagen</strong></p> <p>The market at Nytorv square is named after everybody's favourite and world-renowned Danish storyteller. The stalls are all named after Hans Christian Andersen\u2019s fairy tales, tastefully decorated with thousands of Christmas lights. You may even get to meet the famous author himself and have your picture taken with him.</p> <p>Here you can taste, smell, and shop everything your Christmas heart desires. You can find Christmas decorations, gifts, jewellery, mulled wine and hot chocolate. The market also has a genuine nostalgia carousel for the kids, a Christmas caravan and of course Santa himself. In Santa's house, the younger family members can join Mrs Claus for some Christmas creativity and make their own decorations.\u00a0</p> <p>A\u00a0fairy tale Christmas market in the heart of Copenhagen.</p> <p>The market at Nytorv square is named after everybody's favourite and world-renowned Danish storyteller. The stalls are all named after Hans Christian Andersen\u2019s fairy tales, tastefully decorated with thousands of Christmas lights. You may even get to meet the famous author himself and have your picture taken with him.</p> <p>Here you can taste, smell, and shop everything your Christmas heart desires. You can find Christmas decorations, gifts, jewellery, mulled wine and hot chocolate. The market also has a genuine nostalgia carousel for the kids, a Christmas caravan and of course Santa himself. In Santa's house, the younger family members can join Mrs. Claus for some Christmas creativity and make their own decorations.\u00a0</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.521109580994,
+                    55.672938160966
+                ]
+            },
+            "properties": {
+                "name": "Christmas market in the Zoo",
+                "loc": "55.672938160966,12.521109580994",
+                "locs_product_location_0___pdouble": 55.672938160966,
+                "locs_product_location_1___pdouble": 12.521109580994,
+                "period_data": "{\"208699\":{\"period_start_date\":\"2023-11-18T00:00:00\",\"period_end_date\":\"2024-01-01T00:00:00\"}}",
+                "parsed_date_start_0": "2023-11-18T00:00:00",
+                "parsed_date_end_0": "2024-01-01T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 14409,
+                "product_category": 58,
+                "category_name": "/Christmas/Christmas Market",
+                "website": "https://www.zoo.dk/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/christmas-market-zoo-gdk1115213",
+                "place": null,
+                "desc": "<p><strong>Copenhagen ZOO opens its doors to a lovely, old-fashioned Christmas. With events for the entire family and cosy market stands, a regular ZOO visit is turned into a magical experience.</strong></p> <p>ZOO lights up during Christmas with gift workshops, crafts, Santa Claus, reindeers, Christmas treats and thousands of twinkling Christmas lights. Their ambition is to set the framework for the perfect family holiday experience.</p> <p>In ZOO you can meet Santa Claus in Santa's House and take a trip with the ZOO-train, which has been transformed into the Christmas train for the time being.<br />There is also the option of making Christmas crafts at Santa's House, and children can make straw animals and even help feed the farm animals in the Children's Zoo.</p> <p>The Christmas atmosphere is complete in the ZOO with 900 Christmas trees spread throughout, as well as reindeer and horses on walking through the park.</p> <p>Of course, there are also gift boxes with crafts, Christmas decorations and small Christmas presents available at the cosy Christmas market, and the opportunity to satisfy the sweet tooth with Danish Christmas treats, gl\u00f6gg, roasted almonds, waffles, cocoa and lots of other Christmas crunch.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56565896,
+                    55.67465415
+                ]
+            },
+            "properties": {
+                "name": "Christmas in Tivoli Gardens",
+                "loc": "55.67465415,12.56565896",
+                "locs_product_location_0___pdouble": 55.67465415,
+                "locs_product_location_1___pdouble": 12.56565896,
+                "period_data": "{\"208683\":{\"period_start_date\":\"2023-11-19T00:00:00\",\"period_end_date\":\"2023-12-31T00:00:00\"}}",
+                "parsed_date_start_0": "2023-11-19T00:00:00",
+                "parsed_date_end_0": "2023-12-31T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 130148,
+                "product_category": 58,
+                "category_name": "/Christmas/Christmas Market",
+                "website": "https://www.tivoligardens.com/en/saesoner/jul",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/christmas-tivoli-gardens-gdk1096403",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Celebrate Christmas in Tivoli Gardens and experience thousands of Christmas lights twinkling like stars.</strong></p> <p>Once again the historic garden will be filled with glittering Christmas lights, the cutest wooden houses decorated with pine branches, and snow-covered trees to create that perfect Nordic Christmas atmosphere. Of course, Santa Claus and his reindeers will also be there to welcome everyone to the amusement park's fun rides and the cozy Christmas market.</p> <p>This year, Christmas decorations will be glittering brightly in various special spots in Tivoli. In front of Nimb, a large red Christmas heart will feature projected images showing charming Christmas stories. You can see a sparkling Christmas tree on the Tivoli Lake as well as the usual iconic Christmas tree set up in front of the Tivoli Concert Hall. A magical, sparkling Christmas atmosphere is guaranteed. The garden will be decorated with more than 70,000 Christmas baubles and more than 1,000 Christmas trees completely covered in lights.\u00a0</p> <p><strong>Christmas market</strong></p> <p>Around 60 stalls will be bursting with any Christmas decoration, snack, sweet, or hot drink your heart could desire, and you may even fix some presents at the stalls selling knitted products, leather products, crafts, and deli items.\u00a0</p> <p>To visit Tivoli's Christmas market, you're required to pay an entrance fee to the garden.</p> <p><strong>Celebrate Christmas in\u00a0Tivoli\u00a0Gardens. </strong></p> <p><em>19 November - 31 December</em></p> <p>Once again\u00a0the historic garden will be filled with glittering Christmas lights, the cutest wooden houses decorated with pine branches, and snow-covered trees to create that perfect Nordic Christmas atmosphere. Of course, Santa Claus and his reindeer will also be there to welcome everyone to the amusement park's fun rides and the cosy Christmas market.</p> <p>The garden will be decorated with more than 70,000 Christmas baubles and more than 1,000 Christmas threes completely covered in lights. There will also be a new, spectacular projection show on the concert hall\u2019s iconic\u00a0fa\u00e7ade.\u00a0</p> <p><strong>Christmas market</strong></p> <p>Around 60 stalls will be bursting with any Christmas decoration, snack, sweet, or hot drink your heart could desire, and you may even fix some presents at the stalls selling knitted products, leather products, crafts and deli items.\u00a0</p> <p>To visit\u00a0Tivoli's\u00a0Christmas market, you're required to pay an entrance fee to the garden.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57943549,
+                    55.77492514
+                ]
+            },
+            "properties": {
+                "name": "Christmas at Bakken",
+                "loc": "55.77492514,12.57943549",
+                "locs_product_location_0___pdouble": 55.77492514,
+                "locs_product_location_1___pdouble": 12.57943549,
+                "period_data": "{\"208682\":{\"period_start_date\":\"2023-11-24T00:00:00\",\"period_end_date\":\"2023-12-17T00:00:00\"}}",
+                "parsed_date_start_0": "2023-11-24T00:00:00",
+                "parsed_date_end_0": "2023-12-17T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 32591,
+                "product_category": 58,
+                "category_name": "/Christmas/Christmas Market",
+                "website": "https://www.bakken.dk/english/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/christmas-bakken-gdk1105972",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>The world\u2019s oldest amusement park is open during Christmas. Go explore Bakken wrapped in holiday cheer with markets, Christmas hearts, classic lunches and everything that makes a true Danish Christmas.</strong></p> <p>The old park is opening its doors for Christmas. From the 22. of November to the 22. of December, Bakken will be open every weekend Friday-Sunday, where Dyrehaven will be lit by all kinds of Christmas lights and \u201cjulehygge\u201d.</p> <p>Santa Claus, Pjerrot and the singing reindeer perform cheery shows all Christmas for the whole family. The crooked streets of Bakken will be transformed into one big Christmas market packed with exciting products and delicious home-made food and candies. Grab your friends and family and gather around a table for a classic Danish Christmas lunch in one of Bakkens many lovely caf\u00e9s and restaurants.</p> <p>Off course, many of the rides in the park will be open during the holidays, so that you can still go upside down in the glow of the Christmas lights.</p> <p><strong>The world\u2019s oldest amusement park is open during Christmas. Go explore Bakken wrapped in holiday cheer with markets, Christmas hearts, classic lunches and everything that makes a true Danish Christmas.</strong></p> <p>The old park is opening its doors for Christmas. From the 26. of November to the 22. of December, Bakken will be open every weekend Friday-Sunday, where Dyrehaven will be lit by all kinds of Christmas lights and \u201cjulehygge\u201d.</p> <p>Santa Claus, Pjerrot and the singing reindeer perform cheery shows all Christmas for the whole family. The crooked streets of Bakken will be transformed into one big Christmas market packed with exciting products and delicious home-made food and candies. Grab your friends and family and gather around a table for a classic Danish Christmas lunch in one of Bakkens many lovely caf\u00e9s and restaurants.</p> <p>Off course, many of the rides in the park will be open during the holidays, so that you can still go upside down in the glow of the Christmas lights.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57738456,
+                    55.63787249
+                ]
+            },
+            "properties": {
+                "name": "Copenhagen Gaming Week",
+                "loc": "55.63787249,12.57738456",
+                "locs_product_location_0___pdouble": 55.63787249,
+                "locs_product_location_1___pdouble": 12.57738456,
+                "period_data": "{\"212384\":{\"period_start_date\":\"2024-01-12T00:00:00\",\"period_end_date\":\"2024-01-14T00:00:00\"}}",
+                "parsed_date_start_0": "2024-01-12T00:00:00",
+                "parsed_date_end_0": "2024-01-14T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 114,
+                "product_category": 58,
+                "category_name": "/Events",
+                "website": "https://www.copenhagengamingweek.dk/en",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-gaming-week-gdk1141441",
+                "place": "0:Copenhagen",
+                "desc": "<p>In recent years, Danish e-sports teams have made one demonstration of power after another. Astralis has put itself on the world map after winning many major championships in CS:GO, among others. Therefore, it makes perfect sense that Copenhagen is now getting its gaming festival, Copenhagen Gaming Week, which takes place in February in Bella Arena & Centre.</p> <p>There will be various E-sports tournaments where regional teams can compete against some of the biggest names in gaming. If you win, you can lift the big Copenhagen Gaming Week trophy on stage!</p> <p>There will also be the opportunity to try Urban & Sport, which combines physical and digital sports. Here, you can try several well-known physical sports, both analogue and digital, such as EAFC.</p> <p>Copenhagen Gaming Week is for all age groups, but a special area has been created for families with children. Here you can meet LEGO, who will focus on physical movement and building something where you can be creative. There will also be the opportunity to meet some big YouTubers and content creators they usually see at home.</p> <p>There will also be a SUPERFANS area, where several major international channels will be present with, for example, Pokemon and Dungeons and Dragons and, not least, a large cosplay competition.</p> <p>There is something for everyone at Copenhagen Gaming Week, and tickets can either be purchased per day or for the entire event.</p> <p>E-Sports, Cosplay and much more is what's on the agenda at Copenhagen Gaming Week taking place at Bella Arena & Bella Centre Copenhagen.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5786311,
+                    55.67285398
+                ]
+            },
+            "properties": {
+                "name": "Copenhagen Fashion Week",
+                "loc": "55.67285398,12.5786311",
+                "locs_product_location_0___pdouble": 55.67285398,
+                "locs_product_location_1___pdouble": 12.5786311,
+                "period_data": "{\"208687\":{\"period_start_date\":\"2024-01-29T00:00:00\",\"period_end_date\":\"2024-02-02T00:00:00\"}}",
+                "parsed_date_start_0": "2024-01-29T00:00:00",
+                "parsed_date_end_0": "2024-02-02T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 14789,
+                "product_category": 58,
+                "category_name": "/Festival",
+                "website": "http://www.copenhagenfashionweek.com/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-fashion-week-gdk589556",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Copenhagen Fashion Week is turning Copenhagen into a Mecca for the fashion hungry citizens, visitors and fashion professionals.</strong> <br /><br />The festival is known for energising the city with fashion events including extraordinary exhibitions, cool street parties, mini concerts, competitions, trend shows and shopping events with cutting edge discounts that are open to everyone. <br /><br />During its existing time, Copenhagen Fashion Week has become a cultural input and an indispensable event, giving the city, its inhabitans and visitors a unique and unforgettable experience every time.</p> <p>Copenhagen Fashion Week takes place twice a year in February and August.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.567591,
+                    55.67911802
+                ]
+            },
+            "properties": {
+                "name": "Winter Jazz",
+                "loc": "55.67911802,12.567591",
+                "locs_product_location_0___pdouble": 55.67911802,
+                "locs_product_location_1___pdouble": 12.567591,
+                "period_data": "{\"208765\":{\"period_start_date\":\"2024-02-01T00:00:00\",\"period_end_date\":\"2024-02-25T00:00:00\"}}",
+                "parsed_date_start_0": "2024-02-01T00:00:00",
+                "parsed_date_end_0": "2024-02-25T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 22460,
+                "product_category": 58,
+                "category_name": "/Festival",
+                "website": "https://jazz.dk/en/vinterjazz-2023/frontpage/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/winter-jazz-gdk1072724",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Fill your February with jazz!</strong></p> <p>Winter Jazz is a nationwide celebration of jazz with around 600 concerts at venues all over Denmark. In the historic jazz city of Copenhagen, you can enjoy lots of jazz concerts with both national and international musicians.\u00a0</p> <p>There are plenty of concerts to choose from, no matter if you want the full-blown orchestra at Copenhagen\u2019s biggest venues or an intimate concert at a cozy wine bar. Check out the program to find\u00a0your favorite act in the impressively wide range of concert venues.</p> <p>Some of the concerts you can access for free and others you have to buy a ticket for. This can be done on the festival\u2019s website.</p> <p><strong>Fill your February with jazz!</strong></p> <p>Winter Jazz is a nationwide celebration of jazz with around 600 concerts at venues all over Denmark. In Copenhagen, you can enjoy lots og jazz concerts with both national and international musicians.\u00a0</p> <p>There are plenty of concerts to choose from, no matter if you want the full-blown orchestra at Copenhagen\u2019s biggest venues, or an intimate concert at a cosy wine bar. Check out the\u00a0<a href=\"http://jazz.dk/en/vinterjazz-2019/schedule/\">programme</a>\u00a0to find\u00a0your favorite spots.</p> <p>Some of the concerts you can access for free and others you have to buy a ticket for. This can be done on the festival\u2019s\u00a0<a href=\"http://jazz.dk/en/vinterjazz-2019/concerts/\">website</a>.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58797255,
+                    55.68082721
+                ]
+            },
+            "properties": {
+                "name": "Copenhagen Light Festival",
+                "loc": "55.68082721,12.58797255",
+                "locs_product_location_0___pdouble": 55.68082721,
+                "locs_product_location_1___pdouble": 12.58797255,
+                "period_data": "{\"208755\":{\"period_start_date\":\"2024-02-02T00:00:00\",\"period_end_date\":\"2024-02-25T00:00:00\"}}",
+                "parsed_date_start_0": "2024-02-02T00:00:00",
+                "parsed_date_end_0": "2024-02-25T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 64744,
+                "product_category": 58,
+                "category_name": "/Festival",
+                "website": "https://copenhagenlightfestival.org/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-light-festival-gdk1098085",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Once again, Copenhagen Light Festival lights up the city in February\u2019s darkness</strong></p> <p>In February, Copenhagen is, for the fifth year in a row, filled with beautiful light installations as Copenhagen Light Festival takes over the city.</p> <p>From the third of February until the 26th of February, the harbour and city space is lit up by beautiful light installations offering extraordinary light experiences from Nordhavn to \u00d8restad.</p> <p>There will be light on dark drifting clouds, beautiful old buildings, architectural squares, the city\u2019s canals, and other city spaces.</p> <p>You can experience the many light installations by yourself or join one of the festival\u2019s guided tours by Segway, canal boat, kayak, or take a regular guided walk.</p> <p>You can read more about the programme and the 35 installations of the Copenhagen Light Festival <a href=\"https://copenhagenlightfestival.org/program-2023/\">here</a> and arrange your own walk(s) around the city to explore the beautiful lights.\u00a0</p> <p><strong>Copenhagen Light Festival lights up the city in February's darkness</strong></p> <p>\u00a0</p> <p><strong>Copenhagen Light Festival lights up Copenhagen again in February's darkness</strong></p> <p>In February, Copenhagen is for the fifth time filled with beautiful light installations as the Copenhagen Light festival takes over the city.</p> <p>4 \u2013 27 February, the harbour and city spaces are lit up by great light experiences from Nordhavn to \u00d8restad.</p> <p>There will be light on dark drifting clouds, beautiful old buildings, architectural squares, the city's canals, and other city spaces.</p> <p>You can go experience the many light installations\u00a0by yourself, or join one of the festival\u2019s guided tours by\u00a0Segway, in canal boats, in kayaks, as well as regular guided walks.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0,
+                    55.0
+                ]
+            },
+            "properties": {
+                "name": "Dining Week",
+                "loc": "55,12",
+                "locs_product_location_0___pdouble": 55,
+                "locs_product_location_1___pdouble": 12,
+                "period_data": "{\"211440\":{\"period_start_date\":\"2024-02-12T00:00:00\",\"period_end_date\":\"2024-02-18T00:00:00\"},\"211441\":{\"period_start_date\":\"2024-10-14T00:00:00\",\"period_end_date\":\"2024-10-20T00:00:00\"}}",
+                "parsed_date_start_0": "2024-02-12T00:00:00",
+                "parsed_date_end_0": "2024-02-18T00:00:00",
+                "parsed_date_start_1": "2024-10-14T00:00:00",
+                "parsed_date_end_1": "2024-10-20T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 22633,
+                "product_category": 58,
+                "category_name": "/Festival",
+                "website": "http://diningweek.dk/#",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/dining-week-gdk1098363",
+                "place": "0:Copenhagen",
+                "desc": "Eat your way through Copenhagen with a good deal during Scandinavia's biggest restaurant festival."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.549071919057,
+                    55.659944090924
+                ]
+            },
+            "properties": {
+                "name": "Copenhagen Gin Fest",
+                "loc": "55.659944090924,12.549071919057",
+                "locs_product_location_0___pdouble": 55.659944090924,
+                "locs_product_location_1___pdouble": 12.549071919057,
+                "period_data": "{\"208688\":{\"period_start_date\":\"2024-02-16T00:00:00\",\"period_end_date\":\"2024-02-17T00:00:00\"}}",
+                "parsed_date_start_0": "2024-02-16T00:00:00",
+                "parsed_date_end_0": "2024-02-17T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 4632,
+                "product_category": 58,
+                "category_name": "/Culinary event",
+                "website": "https://copenhagenginfest.dk/?lang=en",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-gin-fest-gdk1120006",
+                "place": null,
+                "desc": "<p><strong>The worlds largest gin festival takes place in Copenhagen</strong></p> <p><span style=\"font-weight: 400;\">With more than 450 different kinds of gin, the Copenhagen Gin Fest is a gin lovers paradise. The festival present around 80 different stands with gin, gear for your bar at home as well as different kinds of tonic.\u00a0</span></p> <p><span style=\"font-weight: 400;\">The festival will take place in six different sessions happening during the festival.\u00a0</span></p> <p><span style=\"font-weight: 400;\">Tickets for Copenhagen Gin Fest can be bought <a href=\"https://billetto.dk/e/copenhagen-gin-fest-2020-billetter-339920\">here</a>. </span></p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.560827732086,
+                    55.669828253021
+                ]
+            },
+            "properties": {
+                "name": "CPH:DOX",
+                "loc": "55.669828253021,12.560827732086",
+                "locs_product_location_0___pdouble": 55.669828253021,
+                "locs_product_location_1___pdouble": 12.560827732086,
+                "period_data": "{\"208698\":{\"period_start_date\":\"2024-03-13T00:00:00\",\"period_end_date\":\"2024-03-24T00:00:00\"}}",
+                "parsed_date_start_0": "2024-03-13T00:00:00",
+                "parsed_date_end_0": "2024-03-24T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 10021,
+                "product_category": 58,
+                "category_name": "/Exhibition",
+                "website": "https://cphdox.dk/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/cphdox-gdk419218",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>CPH:DOX, Copenhagen's international documentary film festival, is the largest of its kind\u00a0in Scandinavia.</strong><br /><br />The festival is one of the largest in the world and aims to present a programme that ranges from the works of major international directors to new talent, from large-scale theatrical releases to films and formats that do not reach cinema and TV screens.<br /><br />The programme goes beyond traditional boundaries between disciplines and media, offering perspectives on creative crossovers between cinema, television and media art.<br /><br /><strong>Dokumania</strong><br /><br />Each year the festival fills Copenhagen's cinemas with a selection of more than 200 documentary films from around the world.<br /><br />During the ten festival days, CPH:DOX\u00a0also arranges a bunch of parties, talks etc.\u00a0in different alternative and creative venues.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.543393373489,
+                    55.699960956686
+                ]
+            },
+            "properties": {
+                "name": "Flids Spring Market",
+                "loc": "55.699960956686,12.543393373489",
+                "locs_product_location_0___pdouble": 55.699960956686,
+                "locs_product_location_1___pdouble": 12.543393373489,
+                "period_data": "{\"208707\":{\"period_start_date\":\"2024-04-06T00:00:00\",\"period_end_date\":\"2024-04-07T00:00:00\"}}",
+                "parsed_date_start_0": "2024-04-06T00:00:00",
+                "parsed_date_end_0": "2024-04-07T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 1391,
+                "product_category": 58,
+                "category_name": "/Market/Agricultural show",
+                "website": "https://www.flidmarked.com/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/flids-spring-market-gdk1116827",
+                "place": null,
+                "desc": "<p><strong>With their spring market, Flid is once again bringing art and design to Copenhageners and visitors in N\u00f8rrebrohallen. The market with no less than 100 artisans, designers and artists will take place on April 18th and 19th.</strong></p> <p>The exhibition and marketing platform Flid open its doors to a large sustainable market in N\u00f8rrebrohallen, where more than 100 creatives exhibit. For the spring market, designers and artists will sell their unique craftsmanship, handmade designs and original works, giving visitors a unique insight into how the design and trends in the creative industries will be in 2020.</p> <p>The artistic focal point of the spring market will be ceramics, graphics, textile design, art, illustration, wood design, lighting design, crafts and jewellery design.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.59243182,
+                    55.6844396
+                ]
+            },
+            "properties": {
+                "name": "The Queen's birthday",
+                "loc": "55.6844396,12.59243182",
+                "locs_product_location_0___pdouble": 55.6844396,
+                "locs_product_location_1___pdouble": 12.59243182,
+                "period_data": "{\"208762\":{\"period_start_date\":\"2024-04-16T00:00:00\",\"period_end_date\":\"2024-04-16T00:00:00\"}}",
+                "parsed_date_start_0": "2024-04-16T00:00:00",
+                "parsed_date_end_0": "2024-04-16T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 10949,
+                "product_category": 58,
+                "category_name": "/History",
+                "website": "http://kongehuset.dk/en",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/queens-birthday-gdk1107024",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Celebrate the Queen of Denmark\u2019s birthday in Copenhagen.</strong></p> <p>On 16 April, HM Queen Margrethe II\u2019s birthday takes place. Every year, the birthday is marked by the Queen and her family at <a href=\"https://www.visitcopenhagen.com/copenhagen/amalienborg-palace-gdk492887\">Amalienborg Palace</a>, where they step out on the balconies to greet the Danes at noon. The square in front of the palace is usually filled with Danes and visitors, who wish the Queen happy birthday.</p> <p>The guard will be wearing their red gala uniforms for the change of the guard.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.599212825298,
+                    55.690776027
+                ]
+            },
+            "properties": {
+                "name": "Copenhagen Sakura Festival",
+                "loc": "55.690776027,12.599212825298",
+                "locs_product_location_0___pdouble": 55.690776027,
+                "locs_product_location_1___pdouble": 12.599212825298,
+                "period_data": "{\"194465\":{\"period_start_date\":\"2024-04-20T00:00:00\",\"period_end_date\":\"2024-04-21T00:00:00\"}}",
+                "parsed_date_start_0": "2024-04-20T00:00:00",
+                "parsed_date_end_0": "2024-04-21T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 55240,
+                "product_category": 58,
+                "category_name": "/Nature",
+                "website": "https://sakurafestival.dk/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-sakura-festival-gdk1088034",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Join the Japanese celebration of the beautiful Sakura trees right by Langelinie Park</strong></p> <p>In Japan, people love and admire the Sakura trees that has now taken roots in the north as well. Once a year, when the trees bloom, families, lovers and friends meet under the pink blossoms to take in their beauty.</p> <p>Copenhagen Sakura Festival brings this Japanese tradition to Copenhagen with a cultural event that takes place in Langelinie Park at the end of April. By then, the 200 cherry blossom trees in the park will be bursting with pink.</p> <p>At the festival, you can dive into Japanese culture and art forms such as drum shows, folk dance and martial arts. You can test your skills with workshops, listen to lectures, or you can just have a cup of tea and admire the people dressed up in beautiful kimonos. No matter what, you\u2019ll surely have a cultural day filled with plenty of spring vibes and Zen.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6100037,
+                    55.69532683
+                ]
+            },
+            "properties": {
+                "name": "The Adventure Festival",
+                "loc": "55.69532683,12.6100037",
+                "locs_product_location_0___pdouble": 55.69532683,
+                "locs_product_location_1___pdouble": 12.6100037,
+                "period_data": "{\"208761\":{\"period_start_date\":\"2024-05-03T00:00:00\",\"period_end_date\":\"2024-05-05T00:00:00\"}}",
+                "parsed_date_start_0": "2024-05-03T00:00:00",
+                "parsed_date_end_0": "2024-05-05T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 3166,
+                "product_category": 58,
+                "category_name": "/Events",
+                "website": "https://www.adventuroussouls.net/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/adventure-festival-gdk1136452",
+                "place": null,
+                "desc": "<p>The Adventure Festival is a three-day, annual recurring festival. Through different presentations, workshops, demos, activities, and exhibitions, the festival seeks to inspire and invite the audience to try new things and travel in alternative ways. While at the same time believing that everything and everywhere is possible within the sphere of adventure.</p> <p>The central idea behind the festival is to create a platform for everything, which is adventure. It is a space to share adventure stories, to contribute with innovative ideas, discover new destinations, experience new equipment, focus on preserving nature and wilderness and collectively create a consciousness in the adventure space.</p> <p>The festival is both focusing on short, local and simple adventures, which are accessible to all, as well as the larger celebrity adventures, who have made a name for themselves by their impressive and fascinating stories from the mark.</p> <p>Throughout the weekend, delicious food and cold drinks will be served from food trucks and bars, and in the evening, the cool activities will be accompanied by music and DJs.\u00a0</p> <p>If you want to know more about the festival\u2019s full program or buy a ticket, you can check out their <a href=\"https://www.adventuroussouls.net/\">website</a>.</p> <p>The Adventure Festival gathers all adventurous and curious souls in Halvandet on Refshale\u00f8en to explore and be inspired by the many adventures hidden in outdoor life.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.645177841187,
+                    55.656478253365
+                ]
+            },
+            "properties": {
+                "name": "Nordic Race - Copenhagen Beach",
+                "loc": "55.656478253365,12.645177841187",
+                "locs_product_location_0___pdouble": 55.656478253365,
+                "locs_product_location_1___pdouble": 12.645177841187,
+                "period_data": "{\"208757\":{\"period_start_date\":\"2024-05-04T00:00:00\",\"period_end_date\":\"2024-05-04T00:00:00\"}}",
+                "parsed_date_start_0": "2024-05-04T00:00:00",
+                "parsed_date_end_0": "2024-05-04T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 3366,
+                "product_category": 58,
+                "category_name": "/Sport",
+                "website": "https://nordicrace.dk/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/nordic-race-copenhagen-beach-gdk1088031",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Their slogan says it all. You\u2019ve just got to \u201dEMBRACE THE PAIN\u201d when Nordic Race puts your mental and physical strength to a test.</strong></p> <p>Different locations with each their own course makes Nordic Race the most hardcore series of OCR events in the north. For those that aren\u2019t familiar with the sport, OCR is short for Obstacle Course Racing \u2013 and these guys don\u2019t take obstacles lightly.</p> <p>Tire run, cliffhanger, barbed wire, monkey bars and hurdles are just some of the things you can meet on your way through the course.\u00a0</p> <p>Since 2012, the races have challenged more than 25.000 runners, and over 30 different kinds of obstacles have been conquered on the way.</p> <p>The race taking place in Amager\u00a0Beach Park (Strandparken) is a 5+ race in open terrain. It's a good course for first-timers, but with that said, experienced runners can expect to be challenged as well.</p> <p>\u00a0</p> <p><strong>Take part from the sideline</strong></p> <p>If you\u2019re not quite ready to hit the track yourself, you\u2019ll surely get a kick out of watching the participants as well.</p> <p>Nordic Race is open for friends, fans and spectators that want to feel the intense atmosphere and cheer on the brave runners.</p> <p>Red Bull pulls off DJ sets for all the events, and there will be competitions for onlookers to test their abilities too. There'll be food and drinks for sale at the venue, but it's a good idea to bring some cash.</p> <p>\u00a0</p> <p>If you\u2019re interested in participating, you can sign up at <a href=\"https://nordicrace.dk/\">Nordic Race\u2019s website</a>. And don\u2019t be too scared by the skull logo.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.578916549,
+                    55.669053762
+                ]
+            },
+            "properties": {
+                "name": "Copenhagen Marathon",
+                "loc": "55.669053762,12.578916549",
+                "locs_product_location_0___pdouble": 55.669053762,
+                "locs_product_location_1___pdouble": 12.578916549,
+                "period_data": "{\"208692\":{\"period_start_date\":\"2024-05-05T00:00:00\",\"period_end_date\":\"2024-05-05T00:00:00\"}}",
+                "parsed_date_start_0": "2024-05-05T00:00:00",
+                "parsed_date_end_0": "2024-05-05T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 3195,
+                "product_category": 58,
+                "category_name": "/Sport",
+                "website": "https://www.copenhagenmarathon.dk/en",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-marathon-gdk474958",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Experience the scenic city of Copenhagen at the Copenhagen Marathon.</strong><br /><br /><a href=\"http://www.copenhagenmarathon.dk/\" target=\"_blank\" rel=\"noopener\">Copenhagen Marathon</a> has been a tradition since 1980, returning year after year. On 5 May 2024 thousands of runners from all over the world will participate in the marathon, which will take them around Copenhagen's many neighbourhoods.<br /><br />Both the start and finishing line will be at The race starts from <a href=\"https://www.visitcopenhagen.com/copenhagen/planning/faelledparken-gdk965111\">F\u00e6lledparken</a>, <a href=\"https://www.visitcopenhagen.com/oesterbro\">Copenhagen \u00d8</a>. The course is traffic-free and spectator-friendly and offers numerous sights and landmarks on the way.</p> <p>More than 100,000 spectators will make sure you get all the support you need to get all the way across the finish line. All the struggles, emotions, unpredictable moments and personal overcomings awaiting you once you take the first step onto your journey, will expand your world and your mind.</p> <p>\u00a0</p> <p>\u00a0</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.561998241813,
+                    55.669561873309
+                ]
+            },
+            "properties": {
+                "name": "Mikkeller Beer Celebration Copenhagen",
+                "loc": "55.669561873309,12.561998241813",
+                "locs_product_location_0___pdouble": 55.669561873309,
+                "locs_product_location_1___pdouble": 12.561998241813,
+                "period_data": "{\"208711\":{\"period_start_date\":\"2024-05-10T00:00:00\",\"period_end_date\":\"2024-05-11T00:00:00\"}}",
+                "parsed_date_start_0": "2024-05-10T00:00:00",
+                "parsed_date_end_0": "2024-05-11T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 11746,
+                "product_category": 58,
+                "category_name": "/Culinary event",
+                "website": "https://mikkeller.com/events",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/mikkeller-beer-celebration-copenhagen-gdk1088870",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Mikkeller brings beer enthusiasts together at one of the world\u2019s best beer festivals.</strong></p> <p>In May, you can experience lots of the world\u2019s finest and most innovative brewers, when they hand out their golden juices at Mikkeller Beer Celebration Copenhagen.</p> <p>Since 2012, Mikkeller has been celebrating the North\u2019s popular drink together with guests and breweries from all over the world.</p> <p>This year the Mikkeller Beer Celebration takes place on May 13th and 14th. You can find more information and the full program for the event <a href=\"https://www.facebook.com/events/1193268711200576\">here</a></p> <p><strong>About Mikkeller</strong></p> <p>Mikkeller is a microbrewery founded by Mikkel Borg Bjergs\u00f8, a beer loving math and physics teacher. Mikkeller started as an experiment with malt and yeast in Mikkel\u2019s kitchen in Copenhagen. Since then, his hobby has developed into one of the most innovative and cutting edge breweries in the world.</p> <p>In Copenhagen, Mikkeller's beer can be found in a wide selection of quality bars and restaurants such as <a href=\"https://www.visitcopenhagen.dk/da/copenhagen/mikkeller-and-friends-gdk757820\">Mikkeller & Friends</a>, <a href=\"https://www.visitcopenhagen.dk/da/copenhagen/warpigs-gdk1004612\">WarPigs </a>and <a href=\"https://www.visitcopenhagen.dk/da/copenhagen/oel-broed-gdk919916\">\u00d8l & Br\u00f8d by Mikkeller</a>\u00a0and many more.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0,
+                    55.0
+                ]
+            },
+            "properties": {
+                "name": "48HOURS FESTIVAL",
+                "loc": "55,12",
+                "locs_product_location_0___pdouble": 55,
+                "locs_product_location_1___pdouble": 12,
+                "period_data": "{\"208678\":{\"period_start_date\":\"2024-05-10T00:00:00\",\"period_end_date\":\"2024-05-12T00:00:00\"}}",
+                "parsed_date_start_0": "2024-05-10T00:00:00",
+                "parsed_date_end_0": "2024-05-12T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 19676,
+                "product_category": 58,
+                "category_name": "/Music/Concert",
+                "website": "https://www.48timerfestival.dk/en/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/48hours-festival-gdk1078876",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Bring your friends to the vibrant and free 48Hours festival in the multicultural N\u00f8rrebro.</strong></p> <p>During the last couple of decades, N\u00f8rrebro has evolved into one of Copenhagen\u2019s hottest quarters with a multicultural mix and an influx of young locals, and the annual culture festival \u201c48HOURS\u201d is a great opportunity to experience N\u00f8rrebros captivating culture life.</p> <p>48HOURS offers many exciting and varied ways to experience the buzzing, edgy N\u00f8rrebro including events for children, big concerts, exciting workshops, street parties, art exhibitions and much more.</p> <p>Bring your friends to the vibrant and free 48Hours festival in the multicultural N\u00f8rrebro.</p> <p>During the last couple of decades, N\u00f8rrebro has evolved into one of Copenhagen\u2019s hottest quarters with a multicultural mix and an influx of young locals, and the annual culture festival \u201c48HOURS\u201d is a great opportunity to experience N\u00f8rrebros captivating culture life.</p> <p>48HOURS offers many exciting and varied ways to experience the buzzing, edgy N\u00f8rrebro including events for children, big concerts, exciting workshops, street parties, art exhibitions and much more</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.557373046875,
+                    55.680681604613
+                ]
+            },
+            "properties": {
+                "name": "Copenhagen Art Week",
+                "loc": "55.680681604613,12.557373046875",
+                "locs_product_location_0___pdouble": 55.680681604613,
+                "locs_product_location_1___pdouble": 12.557373046875,
+                "period_data": "{\"208685\":{\"period_start_date\":\"2024-05-23T00:00:00\",\"period_end_date\":\"2024-06-01T00:00:00\"}}",
+                "parsed_date_start_0": "2024-05-23T00:00:00",
+                "parsed_date_end_0": "2024-06-01T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 11052,
+                "product_category": 58,
+                "category_name": "/Exhibition",
+                "website": "https://www.copenhagenartweek.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-art-week-gdk976810",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Connecting and communicating across the entire Danish art scene</strong></p> <p>Copenhagen Art Week is an annual art event in Copenhagen, which invites you to immerse yourself in contemporary art.</p> <p>Galleries, art fairs, museums, exhibition halls and\u00a0public spaces\u00a0unfold during Copenhagen Art Week. In addition to a diverse range of exhibitions, Copenhagen Art Week also invites you to several special events.\u00a0</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.524489164352,
+                    55.669017458188
+                ]
+            },
+            "properties": {
+                "name": "Bloom Festival",
+                "loc": "55.669017458188,12.524489164352",
+                "locs_product_location_0___pdouble": 55.669017458188,
+                "locs_product_location_1___pdouble": 12.524489164352,
+                "period_data": "{\"208679\":{\"period_start_date\":\"2024-05-24T00:00:00\",\"period_end_date\":\"2024-05-26T00:00:00\"}}",
+                "parsed_date_start_0": "2024-05-24T00:00:00",
+                "parsed_date_end_0": "2024-05-26T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 18355,
+                "product_category": 58,
+                "category_name": "/Music/Concert",
+                "website": "http://bloom.ooo/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/bloom-festival-gdk1089048",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Bloom Festival is Copenhagen\u2019s very first festival celebrating nature and science</strong></p> <p>Just like we cheer for sportsmen and popstars, Bloom Festival is here to give credit to the world\u2019s brilliant scientists.</p> <p>Denmark has a proud history within science, counting several bright heads such as Tycho Brahe, Ole R\u00f8mer, H.C. \u00d8rsted and Niels Bohr. Honouring this tradition, Bloom Festival wants to revive the general interest in natural sciences by bringing things out from the labs for everyone to experience.</p> <p>So, if you\u2019re one of those people that think natural science sounds a bit dull, you might want to reconsider. At Bloom Festival, nature and science is crossed with philosophy, art and culture in sensuous, social and aesthetic formats, where everyone can participate.</p> <p>Scientists and innovative thinkers from all over the world will be participating, sharing their thoughts and philosophies. Take part in debates, talks and nature wanderings or experience laboratories, concerts, art installations and many other things at Bloom Festival.</p> <p>The festival takes place at the green fields of S\u00f8ndermarken in Frederiksberg, and is free for everyone that wants to broaden their horizon.</p> <p>Behind the festival is Golden Days in collaboration with the Carlsberg Foundation and supported by the Roskilde Festival Foundation. Read more about the festival and the speakers at Bloom Festival\u2019s website.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0,
+                    55.0
+                ]
+            },
+            "properties": {
+                "name": "Distortion",
+                "loc": "55,12",
+                "locs_product_location_0___pdouble": 55,
+                "locs_product_location_1___pdouble": 12,
+                "period_data": "{\"208700\":{\"period_start_date\":\"2024-05-29T00:00:00\",\"period_end_date\":\"2024-06-02T00:00:00\"}}",
+                "parsed_date_start_0": "2024-05-29T00:00:00",
+                "parsed_date_end_0": "2024-06-02T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 45615,
+                "product_category": 58,
+                "category_name": "/Music/Concert",
+                "website": "https://www.cphdistortion.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/distortion-gdk759015",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Copenhagen's biggest street party and electronic music festival attracts 100,000 partying Copenhageners\u00a0to the streets of different neighbourhoods in the city.\u00a0</strong>\u00a0</p> <p>When daytime parties in the streets of\u00a0N\u00f8rrebro\u00a0and Vesterbro\u00a0end, the club parties take over in Copenhagen's best venues, and friday and saturday\u00a0the area of Refshale\u00f8en\u00a0transforms to Scandinavia's biggest electronic music festival, Distortion \u00d8.</p> <p>Each summer, the Distortion party tsunami rolls through Copenhagen with a vision to move all sorts of parties out into the city's public spaces and to pay tribute to the city of Copenhagen. \u00a0</p> <p>From communal dinners (the so-called \"K\u00f8benhavnermiddage\"), kids' Distortion, big music scenes with various different subgenres, psytrance\u00a0and hip top in City Hall Square, a world music oasis to Vikings\u00a0and skaters at Enghave\u00a0Plads, night party at \u00d8ksnehallen.\u00a0</p> <p>Each day, Distortion moves the party from one area of the city to the next, and culminates in the roaring Distortion \u00d8 party in the once industrial, now vibrant island of Refshale\u00f8en.\u00a0</p> <p>Distortion's street wristband supports the free street parties and gives access to extra party areas in \u00d8ksnehallen\u00a0and City Hall Square.\u00a0</p> <p>Distortion\u00a0Pass gives access to all five festival days incl. all advantages of the street party wristband, all club events and the two-days festival Distortion \u00d8.\u00a0</p> <p>\u00a0</p> <p>\u00a0</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56128385,
+                    55.68816569
+                ]
+            },
+            "properties": {
+                "name": "CPH STAGE",
+                "loc": "55.68816569,12.56128385",
+                "locs_product_location_0___pdouble": 55.68816569,
+                "locs_product_location_1___pdouble": 12.56128385,
+                "period_data": "{\"208697\":{\"period_start_date\":\"2024-05-30T00:00:00\",\"period_end_date\":\"2024-06-08T00:00:00\"}}",
+                "parsed_date_start_0": "2024-05-30T00:00:00",
+                "parsed_date_end_0": "2024-06-08T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 5594,
+                "product_category": 58,
+                "category_name": "/Theatre/Circus",
+                "website": "https://www.cphstage.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/cph-stage-gdk867263",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>CPH</strong><strong>\u00a0STAGE is a theatre festival where artists, theatres and producers give their take on the good performance.</strong></p> <p>The theatre festival CPH STAGE takes on the theaters in Copenhagen and Frederiksberg\u00a0with more than 100 cool, exiting and entertaining shows and events to choose from. \u00a0</p> <p>You can experience exciting theatre at all sorts of venues \u2013 from the smallest underground stage to the Royal Danish Theatre. This year, the performances explore themes like love, gender, loneliness, revolution and the meaning of life.</p> <p>The program offers performances accessible to also non-Danish speakers. You will find both Danish and international productions and a long list of other events.</p> <p>Se the festival programme at <a href=\"https://www.cphstage.dk/en/\" target=\"_blank\">CPH\u00a0STAGE's\u00a0website.</a>\u00a0</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.613710165024,
+                    55.694078904703
+                ]
+            },
+            "properties": {
+                "name": "Copenhagen Photo Festival",
+                "loc": "55.694078904703,12.613710165024",
+                "locs_product_location_0___pdouble": 55.694078904703,
+                "locs_product_location_1___pdouble": 12.613710165024,
+                "period_data": "{\"208693\":{\"period_start_date\":\"2024-06-06T00:00:00\",\"period_end_date\":\"2024-06-16T00:00:00\"}}",
+                "parsed_date_start_0": "2024-06-06T00:00:00",
+                "parsed_date_end_0": "2024-06-16T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 10915,
+                "product_category": 58,
+                "category_name": "/Festival",
+                "website": "https://www.copenhagenphotofestival.com",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-photo-festival-gdk510597",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Immerse yourself in a world of great photography. </strong></p> <p>2-12 June, Copenhagen will be filled with photos and photo exhibitions. Copenhagen Photo Festival is one of the leading of its kind and every year, 250-300 photographers from all over the world take part in the festival programme.</p> <p>The festival\u2019s centre is located in Copenhagen\u2019s old industrial neighbourhood turned cultural hotspot, Refshale\u00f8en. Here, you can experience talk and exhibitions during the festival \u2013 and of course, combine your visit with some delicious street food from <a href=\"https://www.visitcopenhagen.com/copenhagen/reffen-copenhagen-street-food-gdk1101719\">Reffen</a>.</p> <p>The festival's venues on Refshale\u00f8en\u00a0includes Maskinv\u00e6rkstedet, Beddingen, Riggerloftet/Teater\u00f8en\u00a0and Copenhagen Contemporary.\u00a0</p> <p>The festival comes with more than 55 exhibitions all over Copenhagen and south Sweden, so there is plenty to experience from both Danish and international top photographers.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.61278311,
+                    56.04122107
+                ]
+            },
+            "properties": {
+                "name": "Sj\u00e6lland Rundt",
+                "loc": "56.04122107,12.61278311",
+                "locs_product_location_0___pdouble": 56.04122107,
+                "locs_product_location_1___pdouble": 12.61278311,
+                "period_data": "{\"208760\":{\"period_start_date\":\"2024-06-08T00:00:00\",\"period_end_date\":\"2024-06-16T00:00:00\"}}",
+                "parsed_date_start_0": "2024-06-08T00:00:00",
+                "parsed_date_end_0": "2024-06-16T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 839,
+                "product_category": 58,
+                "category_name": "/Sport",
+                "website": "https://sjaellandrundt.dk/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/sjaelland-rundt-gdk1137979",
+                "place": "0:North Zealand",
+                "desc": "<p>In June, the traditional \"Sj\u00e6lland Rundt Sailing Week\" is taking place in and around Elsinore marina and Elsinore Sailing Club. \"Sj\u00e6lland Rundt Sailing Week\" is a continuation of 77 years of uninterrupted racing around Zealand. Every year in June, Elsinore Sailing Club invites racing sailors and cruising sailors to Elsinore for a week-long sailing party with a focus on a community around the desire and passion for the maritime.</p> <p>Every year, a unique week is created with lots of sailing activities at the harbor and in the waters off Kronborg.</p> <p>As something special in 2023, the ORC DH European Championship will be decided in Elsinore. It is large OffShore racers that visit Elsinore - before they take the trip around Zealand (and Anholt) to finish off Kronborg.</p> <p>The event is for all sailors regardless of prerequisite.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56443451,
+                    55.67488622
+                ]
+            },
+            "properties": {
+                "name": "3 Days of Design",
+                "loc": "55.67488622,12.56443451",
+                "locs_product_location_0___pdouble": 55.67488622,
+                "locs_product_location_1___pdouble": 12.56443451,
+                "period_data": "{\"208677\":{\"period_start_date\":\"2024-06-12T00:00:00\",\"period_end_date\":\"2024-06-14T00:00:00\"}}",
+                "parsed_date_start_0": "2024-06-12T00:00:00",
+                "parsed_date_end_0": "2024-06-14T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 27781,
+                "product_category": 58,
+                "category_name": "/Festival",
+                "website": "https://www.3daysofdesign.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/3-days-design-gdk1000129",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>One of the annual highlights on Copenhagen's design scene.\u00a0</strong></p> <p>If you love design, '3 Days of Design' is the perfect chance for you to get an insight in design in Copenhagen.</p> <p>The annual festival, draws journalists, buyers and design enthusiasts from around the world to Copenhagen, to experience a new and refreshing look on design presented in a unique collaboration between top design companies and designers.</p> <p>Meet a wide and diverse array of the country's best design companies all around Copenhagen. Frama, Fritz Hansen and many more are among the brands that opened their doors this festival.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.624492645,
+                    55.692293896
+                ]
+            },
+            "properties": {
+                "name": "Copenhell",
+                "loc": "55.692293896,12.624492645",
+                "locs_product_location_0___pdouble": 55.692293896,
+                "locs_product_location_1___pdouble": 12.624492645,
+                "period_data": "{\"208695\":{\"period_start_date\":\"2024-06-19T00:00:00\",\"period_end_date\":\"2024-06-22T00:00:00\"}}",
+                "parsed_date_start_0": "2024-06-19T00:00:00",
+                "parsed_date_end_0": "2024-06-22T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 14226,
+                "product_category": 58,
+                "category_name": "/Music/Concert",
+                "website": "https://www.copenhell.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhell-gdk421979",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Copenhagen's metal festival, <em>Copenhell,</em> unleashes hell again this year on Refshale\u00f8en with lots of bands, beer and a heavy programme of heavy-metal.</strong><br /><br />Copenhell is an outdoor festival that acclaims the metal and rock genre and offers dedicated metal-fans a serious festival in Copenhagen.<br /><br />Again in 2020, Copenhell will take place close to the centre of Copenhagen on the island Refshale\u00f8en. The festival area will be done out in rough and brutal style, consonant with the industrial surroundings.<br /><br /><strong>Heavy names</strong><br /><br />The festival features a varied and heavy program and will present both big established names, and less known, up-coming bands on three stages. <br /><br />Heavy metal-lovers can look forward to\u00a0four days of extremely heavy bands.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0,
+                    55.0
+                ]
+            },
+            "properties": {
+                "name": "IRONMAN Elsinore",
+                "loc": "55,12",
+                "locs_product_location_0___pdouble": 55,
+                "locs_product_location_1___pdouble": 12,
+                "period_data": "{\"208708\":{\"period_start_date\":\"2024-06-23T00:00:00\",\"period_end_date\":\"2024-06-23T00:00:00\"}}",
+                "parsed_date_start_0": "2024-06-23T00:00:00",
+                "parsed_date_end_0": "2024-06-23T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 1079,
+                "product_category": 58,
+                "category_name": "/Events",
+                "website": "https://www.ironman.com/im703-elsinore",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/ironman-elsinore-gdk1137299",
+                "place": "0:North Zealand",
+                "desc": "<p>In June, you will have the chance to be a part of an amazing race in historical surroundings. With its 1,9 km swim, 90 km bike and 21,1 km run, IRONMAN 70.3 Elsinore will be the perfect challenge for both new and experienced triathletes. The swim will take place inside Elsinore harbour, with spectators cheering you on all the way through the 1,9 km swim. Afterwards, you will take your bike and head out north along the stunning coastline of Northern Sealand. The 90 km bike course will take you through the most idyllic countryside, where you will be enjoying sections of both forests and coastline before returning to the city of Elsinore. Here, the run course will lead you through the heart of the old Elsinore city, where spectators once again will be standing along the route or sitting at the nearby cafes cheering you on. After the 21,1 km, you will reach the finish line in the shadows of the historical Kronborg castle, where all the enthusiastic spectators, family and friends will be gathered to be a part of the celebration and finish line party.</p> <p>\u00a0</p> <p>You can sign up for the event here: <a href=\"https://www.ironman.com/im703-elsinore-register\">https://www.ironman.com/im703-elsinore-register</a></p> <p>Make your own IRONMAN fairy tale come true in Elsinore this year.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0,
+                    55.0
+                ]
+            },
+            "properties": {
+                "name": "Copenhagen Jazz Festival",
+                "loc": "55,12",
+                "locs_product_location_0___pdouble": 55,
+                "locs_product_location_1___pdouble": 12,
+                "period_data": "{\"208690\":{\"period_start_date\":\"2024-07-05T00:00:00\",\"period_end_date\":\"2024-07-14T00:00:00\"}}",
+                "parsed_date_start_0": "2024-07-05T00:00:00",
+                "parsed_date_end_0": "2024-07-14T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 36249,
+                "product_category": 58,
+                "category_name": "/Music/Concert",
+                "website": "https://www.jazz.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-jazz-festival-gdk474738",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>More than 250,000 people make Copenhagen Jazz Festival one of the biggest, inclusive jazz events of its kind i Europe.</strong> <br /><br />The city of Copenhagen becomes alive and vibrant with jazz in the streets, city squares, jazz clubs and unique concert halls when Copenhagen Jazz Festival takes place each summer.</p> <p>Copenhagen Jazz Festival is also one of the city's oldest music festivals, and in 2024 the festival will celebrate its 46th anniversary.<br /><br /><strong>Jazz for kids</strong><br /><br />The festival also presents different themes each of which represents an alternative approach to the voluminous program.<br /><br />There is no reason to leave the kids at home. You will find kids' friendly jazz concerts around the city.<br /><br /></p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.064705,
+                    56.058523
+                ]
+            },
+            "properties": {
+                "name": "Musik i Lejet | Summer festival in Tisvildeleje",
+                "loc": "56.058523,12.064705",
+                "locs_product_location_0___pdouble": 56.058523,
+                "locs_product_location_1___pdouble": 12.064705,
+                "period_data": "{\"134816\":{\"period_start_date\":\"2024-07-18T00:00:00\",\"period_end_date\":\"2024-07-20T00:00:00\"}}",
+                "parsed_date_start_0": "2024-07-18T00:00:00",
+                "parsed_date_end_0": "2024-07-20T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 5321,
+                "product_category": 58,
+                "category_name": "/Music/Concert",
+                "website": "https://musikilejet.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitnorthsealand.com/north-sealand/events/musik-i-lejet-summer-festival-tisvildeleje-gdk619144",
+                "place": "0:North Zealand",
+                "desc": "<h2>A beautiful forest, a beautiful beach and a place with a very special atmosphere. Music in Lejet has arisen from a desire to give something to Tisvildeleje - and pass on some of Tisvildeleje.</h2> <p>The festival is known for its high musical quality, fantastic atmosphere and beautiful surroundings. Some of Denmark's most distinctive music names have performed on stage with the unique view of the Kattegat.</p> <p><strong>DATE: 18-20. July 2024 | <a href=\"https://musikilejet.seetickets.com/event/musik-i-lejet/musik-i-lejet/2461111#op1\">Book tickets</a></strong></p> <p>The dream of developing the atmosphere and creating a different, unexpected cultural experience that surprises the audience and provides a respite and a break from everyday life and city life has come true. Here you can meet your friends, hug each other and dance to good music.</p> <p>\u00a0</p> <p>Music in Lejet is the highlight of the summer in Tisvildeleje. The three days of the festival present the leading trends in music, art and gastronomy\u2014all in Tisvildeleje's picturesque surroundings.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.53496094,
+                    55.69401968
+                ]
+            },
+            "properties": {
+                "name": "Carpark Festival",
+                "loc": "55.69401968,12.53496094",
+                "locs_product_location_0___pdouble": 55.69401968,
+                "locs_product_location_1___pdouble": 12.53496094,
+                "period_data": "{\"208681\":{\"period_start_date\":\"2024-07-26T00:00:00\",\"period_end_date\":\"2024-07-27T00:00:00\"}}",
+                "parsed_date_start_0": "2024-07-26T00:00:00",
+                "parsed_date_end_0": "2024-07-27T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 7668,
+                "product_category": 58,
+                "category_name": "/Music/Concert",
+                "website": "https://billetto.dk/e/carpark-festival-2023-billetter-806689",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/carpark-festival-gdk1092662",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Get ready for a weekend of musical and artistic magic in the centre of the Danish capital, where you can experience the best of the Danish upcoming music scene - all in one place!</strong></p> <p><br />On 28 and 29 July, Carpark Festival kicks off, which is the perfect opportunity to discover new Danish music. Among the names on the music programme are the two winners of the talent competition KarriereKanonen, Kris and Dahlin, who have been carefully selected from 1,318 promising music artists. There will also be exciting performances from musicians such as TEX, Betty Bass, Kingtommi and many more who will get Carpark Festival dancing.</p> <p><br />With an eclectic mix of musical styles ranging from pop to soul, electronic to hip-hop, and rock to punk, Carpark Festival will be a true paradise for curious music lovers. Whether you're into hard-hitting beats, touching melodies or energetic rhythms, there's something for everyone.</p> <p><br /><em>Music artists for Carpark Festival 2023: Kingtommi, TEX, Alvah, Elo Kay, \u00d8NDI, Kamill, Kris, DEEJADE, Alga, Bonjour Papa, Matongo, Dahlin, Bree Carter, Betty Bass, Baske, Bj\u00f8rn, Camma, PAK, Future Female Sounds.</em></p> <p>\u00a0</p> <p>But it doesn't stop there! Carpark Festival also features fascinating art installations that will pique your curiosity and stimulate your senses. Blau's textile art, Magnus Lind Nielsen's performance art about vandalism and Pernille Leger's lively animations are just some of the art installations that will catch your attention.</p> <p><br />On both Friday and Saturday, the day starts with a big DJ set from Future Female Sounds and a beer happy hour between 15:00 and 17:00. There will also be a wide range of food and beverages to enjoy on site, providing the best conditions for you to party and enjoy yourself all weekend long.</p> <p><br />The festival area has been carefully designed to create a comfortable and entertaining atmosphere for everyone. In 4,000 transformed square metres, Carpark Festival transforms the underside of the much-maligned Bispeengbuen motorway bridge into an artistic and cultural hub over two days in July.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.61397903,
+                    56.03417533
+                ]
+            },
+            "properties": {
+                "name": "PASSAGE Festival",
+                "loc": "56.03417533,12.61397903",
+                "locs_product_location_0___pdouble": 56.03417533,
+                "locs_product_location_1___pdouble": 12.61397903,
+                "period_data": "{\"211175\":{\"period_start_date\":\"2024-07-26T00:00:00\",\"period_end_date\":\"2024-08-03T00:00:00\"}}",
+                "parsed_date_start_0": "2024-07-26T00:00:00",
+                "parsed_date_end_0": "2024-08-03T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 1372,
+                "product_category": 58,
+                "category_name": "/Festival",
+                "website": "https://passagefestival.nu",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/passage-festival-gdk1132882",
+                "place": "0:North Zealand",
+                "desc": "<p>PASSAGE Festival has grown to be one of Northern Europe's largest international street theater festivals, bringing the world to Elsinore every year in late July/early August, transforming both urban and residential areas into a playful and vibrant stage.</p> <p>The festival presents world-class international and Danish artists, and during the festival you can experience a cornucopia of spectacular contemporary circus and street theatre, classic street theatre and experimental new performing arts side by side. This makes the festival something special that can be experienced by everyone: families with children, tourists, and omnivorous, experienced theatergoers.</p> <p>Once you've experienced a PASSAGE Festival, you'll never look at the city in quite the same way again.</p> <p>The program for the festival will be published throughout the month of June (with the possibility of changes along the way). Keep an eye on the program on social media and at <a href=\"http://www.passagefestival.nu\">www.passagefestival.nu</a></p> <p>PASSAGE Festival has become one of Northern Europe's largest international street theater festivals. Every year, the festival brings the world to Elsinore and transforms the urban space into a playful and vibrant stage.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.51431452,
+                    55.7060411
+                ]
+            },
+            "properties": {
+                "name": "Copenhagen Historic Grand Prix",
+                "loc": "55.7060411,12.51431452",
+                "locs_product_location_0___pdouble": 55.7060411,
+                "locs_product_location_1___pdouble": 12.51431452,
+                "period_data": "{\"208689\":{\"period_start_date\":\"2024-08-02T00:00:00\",\"period_end_date\":\"2024-08-04T00:00:00\"}}",
+                "parsed_date_start_0": "2024-08-02T00:00:00",
+                "parsed_date_end_0": "2024-08-04T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 7860,
+                "product_category": 58,
+                "category_name": "/Show",
+                "website": "https://www.chgp.dk/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-historic-grand-prix-gdk1109728",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Copenhagen Historic Gran Prix (CHGP) is a race that takes place at Bellah\u00f8j Park in Copenhagen with action, drama, lots of speed and entertainment for the entire family.\u00a0</strong></p> <p>Every year, the race is a celebration of historic race cars and famous drivers \u2013 especially the Danish racing drivers, but also the many international stars.\u00a0</p> <p>On top of the race, there will be lots of activities. Company events, exhibitions, car clubs, accessories, restaurants, food and drinks stalls and activities for both kids and their parents.\u00a0</p> <p>There will be grass areas with benches where you can enjoy the lunch or relax while the kids play.\u00a0</p> <p>Copenhagen Historic Gran Prix tells a culture historic story about the development of auto racing from the beginning of motor sport all the way till innovative electric and hybrid cars today. Come and experience more than 200 motor racers from all over Europe and their amazing cars from 1965 to 1986.\u00a0</p> <p>Get your ticket at the <a href=\"https://www.chgp.dk/?lang=en\" target=\"_blank\">website</a>.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.587023,
+                    55.680234
+                ]
+            },
+            "properties": {
+                "name": "Copenhagen Summer Festival",
+                "loc": "55.680234,12.587023",
+                "locs_product_location_0___pdouble": 55.680234,
+                "locs_product_location_1___pdouble": 12.587023,
+                "period_data": "{\"208702\":{\"period_start_date\":\"2024-08-04T00:00:00\",\"period_end_date\":\"2024-08-15T00:00:00\"}}",
+                "parsed_date_start_0": "2024-08-04T00:00:00",
+                "parsed_date_end_0": "2024-08-15T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 12826,
+                "product_category": 58,
+                "category_name": "/Music/Concert",
+                "website": "http://www.copenhagensummerfestival.dk/?lang=en",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-summer-festival-gdk434230",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Every year, Copenhagen Summer Festival presents a handful of young talents in a range of classical chamber music concerts in the beautiful surroundings of Charlottenborg\u00a0Kunsthal.\u00a0</strong></p> <p>Since 1969 Copenhagen Summer Festival has lead the way to a professional breakthrough for a handpicked crowd of musically gifted and upcoming artists.<br /><br />The festival takes place in the beautiful art hall Charlottenborg\u00a0just off Nyhavn in central Copenhagen and is considered to hold one of the country's most important chamber music series.<br /><br />The idea is to pair up upcoming stars with high-profiled artists to give the audience an insight into how the art of chamber music evolves.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.62008854,
+                    56.03803864
+                ]
+            },
+            "properties": {
+                "name": "Shakespeare Festival",
+                "loc": "56.03803864,12.62008854",
+                "locs_product_location_0___pdouble": 56.03803864,
+                "locs_product_location_1___pdouble": 12.62008854,
+                "period_data": "{\"212492\":{\"period_start_date\":\"2024-08-05T00:00:00\",\"period_end_date\":\"2024-08-11T00:00:00\"}}",
+                "parsed_date_start_0": "2024-08-05T00:00:00",
+                "parsed_date_end_0": "2024-08-11T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 2930,
+                "product_category": 58,
+                "category_name": "/Theatre/Circus",
+                "website": "https://hamletscenen.dk/forestilling/shakespearefestival2023-copy/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/shakespeare-festival-gdk1124819",
+                "place": null,
+                "desc": "<p>Shakespeare Festival is an open-air theatre, where art and nature are united in creating a unique experience.</p> <p>The festival scene is build over the moat, where Kronborg\u00a0Castle act as a backcloth. The ever changing Danish weather, the screams from the seagulls\u00a0and the twinkle of the stars, are all well respected co-actors, which make sure that each show becomes a magical experience.</p> <p>Each night before the show you can enjoy a pre-ordered picnic at Kronborg\u00a0Castle green areas.\u00a0</p> <p>Fore more than 200 years Shakespeare's characters have unfolded at Kronborg\u00a0Castle in every genre from revenging tragedies to love-comedies. Each year in August you can experience scenery artists and theatre in world-class level in both Danish and English pass on the tradition, when HamletScenen\u00a0presents the Shakespeare Festival.</p> <p>Experience Shakespeare's intense dramas with Kronborg Castle as a backdrop. The open-air Shakespeare Festival takes place every year in August at HamletScenen in Elsinore.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.525715702,
+                    55.674718562
+                ]
+            },
+            "properties": {
+                "name": "Stella Polaris",
+                "loc": "55.674718562,12.525715702",
+                "locs_product_location_0___pdouble": 55.674718562,
+                "locs_product_location_1___pdouble": 12.525715702,
+                "period_data": "{\"208936\":{\"period_start_date\":\"2024-08-10T00:00:00\",\"period_end_date\":\"2024-08-10T00:00:00\"}}",
+                "parsed_date_start_0": "2024-08-10T00:00:00",
+                "parsed_date_end_0": "2024-08-10T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 31957,
+                "product_category": 58,
+                "category_name": "/Music/Concert",
+                "website": "https://www.stella-polaris.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/stella-polaris-gdk539270",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Stella Polaris is the world's biggest free chill-out electronic downtempo\u00a0festival. </strong></p> <p>It tours around the country during August, and this year it will take place in the park Frederiksberg Have in Copenhagen's Frederiksberg area.</p> <p>Bringing together the finest DJ's and artists in chill-out, Stella Polaris has managed to maintain their position for more than 10 years.</p> <p>The festival is open air, so bring a blanket, a picnic basket and some cold drinks with you. There is no admission fee,\u00a0and the event is for all ages.</p> <p>One the food scene, the festival has added a range of the best food trucks from\u00a0around Copenhagen.</p> <p>\u00a0</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.569182826,
+                    55.675898128
+                ]
+            },
+            "properties": {
+                "name": "Copenhagen Pride",
+                "loc": "55.675898128,12.569182826",
+                "locs_product_location_0___pdouble": 55.675898128,
+                "locs_product_location_1___pdouble": 12.569182826,
+                "period_data": "{\"208694\":{\"period_start_date\":\"2024-08-10T00:00:00\",\"period_end_date\":\"2024-08-18T00:00:00\"}}",
+                "parsed_date_start_0": "2024-08-10T00:00:00",
+                "parsed_date_end_0": "2024-08-18T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 15439,
+                "product_category": 58,
+                "category_name": "/Festival",
+                "website": "https://www.copenhagenpride.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-pride-gdk474741",
+                "place": "0:Copenhagen",
+                "desc": "<p>The Copenhagen Pride started in the 1970s and has since undergone many transformations to be the event that it is today. The passion and idea behind it have remained the same: inclusivity for all.</p> <p>The event stretches over a week and is notorious for two things in particular: The events during the week and the Pride Parade. During the week, big tents are set up all over the city, where discussions, cultural events, workshops, sports events, bingos, and much more take place. Most of the events take place at City Hall Square, which is known as Pride Square, during the week. Most of the events are body-inclusive, so everyone can attend them. Many of the events are also in English, so more people can be included.</p> <p>Some of the previous events have included Drag Bingo, transgender rights discussions, queer asylum, DJs, friendship speed dating, dog meetups, alliances between minorities, family picnics, human rights talks, queer parenting classes, neurodivergent discussions, and silent discos. There simply is something for everyone, regards of gender, ethnicity, and sexuality.</p> <p>The icing on the cake is the Pride Parade that always takes place on the Saturday. The Parade starts in Frederiksberg and moves down Vesterbro to ultimately end at the City Hall Square. It is important to remember that while it is fun and people are partying, it is also a demonstration where LGBTQIA+ fight for acceptance and rights. You can either watch the parade or join in \u2013 everyone is welcome to join the fun as long as they remain respectful. As Lady Gaga put it, \u201cdon\u2019t be a drag, just be a queen!\u201c</p> <p>\u00a0</p> <p><strong>Every August, Copenhagen Pride takes place. While it is recognisable with glitter and glam and queers and queens, its seriousness cannot be undermined. It is a week full of activism to create a more inclusive Copenhagen \u2013 and world!</strong></p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.539949417114,
+                    55.673857775102
+                ]
+            },
+            "properties": {
+                "name": "PostNord Danmark Rundt / Denmark Tour",
+                "loc": "55.673857775102,12.539949417114",
+                "locs_product_location_0___pdouble": 55.673857775102,
+                "locs_product_location_1___pdouble": 12.539949417114,
+                "period_data": "{\"211445\":{\"period_start_date\":\"2024-08-14T00:00:00\",\"period_end_date\":\"2024-08-18T00:00:00\"}}",
+                "parsed_date_start_0": "2024-08-14T00:00:00",
+                "parsed_date_end_0": "2024-08-18T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 3828,
+                "product_category": 58,
+                "category_name": "/Sport",
+                "website": "https://www.postdanmarkrundt.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/postnord-danmark-rundt-denmark-tour-gdk1103027",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>As per tradition, the pro cycling race Post Danmark Rundt, Tour of Denmark finishes on on the beautiful Frederiksberg\u00a0All\u00e9.\u00a0</strong></p> <p>Over five stages, the race takes the riders across 727 kilometers throughout\u00a0Denmark The fifth and final stage of the traditional race takes the riders from Roskilde\u00a0165 kilometres, to Frederiksberg\u00a0in Copenhagen through the towns V\u00e6rl\u00f8se\u00a0and Slangerup\u00a0north of Copenhagen.\u00a0</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.54091466,
+                    55.66203269
+                ]
+            },
+            "properties": {
+                "name": "UH\u00d8RT Festival",
+                "loc": "55.66203269,12.54091466",
+                "locs_product_location_0___pdouble": 55.66203269,
+                "locs_product_location_1___pdouble": 12.54091466,
+                "period_data": "{\"208763\":{\"period_start_date\":\"2024-08-15T00:00:00\",\"period_end_date\":\"2024-08-17T00:00:00\"}}",
+                "parsed_date_start_0": "2024-08-15T00:00:00",
+                "parsed_date_end_0": "2024-08-17T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 5957,
+                "product_category": 58,
+                "category_name": "/Music/Concert",
+                "website": "http://www.uhoert.dk/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/uhort-festival-gdk1091916",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>UH\u00d8RT Festival is about finding the unheard that should be heard.</strong></p> <p>UH\u00d8RT Festival (which literally means \u2019UNHEARD Festival\u2019) presents new music from all over the country.</p> <p>The vision is to give upcoming musicians a boost to develop their talent, and at the festival, you\u2019ll find plenty of new and interesting tones and genres.</p> <p>The artists presented at UH\u00d8RT Festival are picked out by a jury of 35 people, including both bookers, record labels, musicians, radio hosts and music journalists. Everyone can apply to perform at the festival, whether they\u2019re experienced artists, or newbies that just enjoy jamming in their parents\u2019 basement, but are ready for more.</p> <p>\u00a0</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57205029,
+                    55.67859435
+                ]
+            },
+            "properties": {
+                "name": "Copenhagen Cooking and Food Festival",
+                "loc": "55.67859435,12.57205029",
+                "locs_product_location_0___pdouble": 55.67859435,
+                "locs_product_location_1___pdouble": 12.57205029,
+                "period_data": "{\"208686\":{\"period_start_date\":\"2024-08-16T00:00:00\",\"period_end_date\":\"2024-08-25T00:00:00\"}}",
+                "parsed_date_start_0": "2024-08-16T00:00:00",
+                "parsed_date_end_0": "2024-08-25T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 37939,
+                "product_category": 58,
+                "category_name": "/Culinary event",
+                "website": "https://www.copenhagencooking.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-cooking-and-food-festival-gdk419149",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Take a bite of culinary Copenhagen and the Nordic region, when\u00a0food festival Copenhagen Cooking\u00a0hits\u00a0the\u00a0city.\u00a0</strong></p> <p>Copenhagen Cooking is one of the biggest food festivals in Northern Europe and is an open-source festival that profiles Danish gastronomy by paying homage to the food culture, Nordic cuisine and the players on the gastronomic stage.</p> <p>In August , you can take a bite of the New Nordic Cuisine and the Copenhagen restaurant scene. Naturally, the festival offers plenty of events held in English or with no language requirements, targeting international visitors.\u00a0</p> <p><strong>Take a bite of culinary Copenhagen and the Nordic region, when the food festival Copenhagen Cooking\u00a0hits\u00a0the\u00a0city.\u00a0</strong></p> <p>Copenhagen Cooking is one of the biggest food festivals in Northern Europe and is an open-source festival that profiles Danish gastronomy by paying homage to the food culture, Nordic cuisine, and the players on the gastronomic stage.</p> <p>For ten days in August, you can take a bite of the\u00a0New Nordic Cuisine and the Copenhagen restaurant scene.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56108615,
+                    55.66839678
+                ]
+            },
+            "properties": {
+                "name": "CPH Opera Festival",
+                "loc": "55.66839678,12.56108615",
+                "locs_product_location_0___pdouble": 55.66839678,
+                "locs_product_location_1___pdouble": 12.56108615,
+                "period_data": "{\"208696\":{\"period_start_date\":\"2024-08-16T00:00:00\",\"period_end_date\":\"2024-08-25T00:00:00\"}}",
+                "parsed_date_start_0": "2024-08-16T00:00:00",
+                "parsed_date_end_0": "2024-08-25T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 12110,
+                "product_category": 58,
+                "category_name": "/Music/Concert",
+                "website": "http://operafestival.dk/en",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/cph-opera-festival-gdk560682",
+                "place": "0:Copenhagen",
+                "desc": "<p>Central to the Copenhagen Opera Festival is the wish to create a new space for opera. An international forum where tradition can meet innovation and talent can meet experience. <br /><br />The idea is for the festival to be an invitation to new initiatives from both elite international talent, established local forces, and institutions in the area.<br /><strong><br />Opera is for everybody</strong><br /><br />The festival appeals to those already familiar with opera and to the curious for whom opera is a new acquaintance. The festival embraces a versatile programme; here, you will find big and small productions, concerts and events for the entire family.\u00a0</p> <p>Not least, it seeks an audience also interested in art that seeks new boundaries.</p> <p>Copenhagen Opera Festival is\u00a0taking the opera out of the traditional theatre and letting its sounds ring out over the streets, the underground and the waterways of Copenhagen.\u00a0</p> <p><strong>Copenhagen Opera Festival celebrates the opera as an art form by taking it out of the traditional theater and let it sound on the streets, underground, and the water of Copenhagen.</strong><br /><br />Venues are wide-ranging - from Rosenborg Castle to Assistens Cemetery, and there is also a operetta boat that moves the music out into the harbor and the canals.<br /><br />Also musically the festival is wide-ranging. For the full program and play dates, please see the festival website.<a href=\"http://www.copenhagenoperafestival.com\"><br /></a></p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.579947432587,
+                    55.676802706
+                ]
+            },
+            "properties": {
+                "name": "Ironman Copenhagen",
+                "loc": "55.676802706,12.579947432587",
+                "locs_product_location_0___pdouble": 55.676802706,
+                "locs_product_location_1___pdouble": 12.579947432587,
+                "period_data": "{\"208709\":{\"period_start_date\":\"2024-08-18T00:00:00\",\"period_end_date\":\"2024-08-18T00:00:00\"}}",
+                "parsed_date_start_0": "2024-08-18T00:00:00",
+                "parsed_date_end_0": "2024-08-18T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 17532,
+                "product_category": 58,
+                "category_name": "/Sport",
+                "website": "http://eu.ironman.com/triathlon/events/emea/ironman/copenhagen.aspx#axzz4bTsUDTeC",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/ironman-copenhagen-gdk1089058",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Challenge yourself in Copenhagen\u2019s beautiful and historical surroundings</strong></p> <p>With a total of 3.8 km swimming, 180 km cycling and a good 42.2 km run, the IRONMAN Copenhagen will put your physical and mental strength to a test. In August, you have the chance to take part in a race of a lifetime.</p> <p>Amager Beach Park will serve as a swimming pool, while the cycling course will take you on a scenic tour through the countryside in Northern Zealand. Next, the participants will return to the city center, where the last part of the race will take place along the harbor.</p> <p>Running along the waterfront of Copenhagen\u2019s harbor, you\u2019ll pass many of the city\u2019s historical sights such as The Little Mermaid, The Opera House, Amalienborg Palace, and Nyhavn.</p> <p>Along the course, more than 150,000 spectators will gather up and spread lots of cheerful energy. For instance, at the hot spot Geels Bakke, where the World Road Race Cycling Championship also took place in 2011.</p> <p>The course ends at Christiansborg Palace Square, where all the enthusiastic spectators and the participants\u2019 friends and family members will meet up by the finish line to end the event with a true triathlon celebration.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0,
+                    55.0
+                ]
+            },
+            "properties": {
+                "name": "Golden Days Festival",
+                "loc": "55,12",
+                "locs_product_location_0___pdouble": 55,
+                "locs_product_location_1___pdouble": 12,
+                "period_data": "{\"208943\":{\"period_start_date\":\"2024-08-22T00:00:00\",\"period_end_date\":\"2024-08-25T00:00:00\"}}",
+                "parsed_date_start_0": "2024-08-22T00:00:00",
+                "parsed_date_end_0": "2024-08-25T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 14708,
+                "product_category": 58,
+                "category_name": "/Festival",
+                "website": "http://goldendays.dk/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/golden-days-festival-gdk1091865",
+                "place": null,
+                "desc": "<p><strong>Golden Days - Copenhagen's major annual culture festival. This year under the theme \"Forever Young\".</strong></p> <p>Golden Days Festival was held for the first time in 1994, and was formed as a collaboration between several cultural institutions in Copenhagen.</p> <p>Each year, these now more than 100 partners work together to create a festival programme that invite locals and visitors to experience everything from Christian the 4\u2019s Copenhagen to the industrial revolution and the interwar period. With the festival, Golden Days want to make young people interested in history, persuade men to go to museums and the elder to try new thing.</p> <p>The vision is to share knowledge, history and culture in a what that people actually find interesting, and want to be a part of. You get to engage, learn a thing or two and maybe even gain new perspectives on the society we live in.</p> <p>\u00a0</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.55984886,
+                    55.66975639
+                ]
+            },
+            "properties": {
+                "name": "Str\u00f8m Festival",
+                "loc": "55.66975639,12.55984886",
+                "locs_product_location_0___pdouble": 55.66975639,
+                "locs_product_location_1___pdouble": 12.55984886,
+                "period_data": "{\"211447\":{\"period_start_date\":\"2024-08-22T00:00:00\",\"period_end_date\":\"2024-08-25T00:00:00\"}}",
+                "parsed_date_start_0": "2024-08-22T00:00:00",
+                "parsed_date_end_0": "2024-08-25T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 25527,
+                "product_category": 58,
+                "category_name": "/Music/Concert",
+                "website": "https://www.stromcph.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/strom-festival-gdk419509",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Str\u00f8m Festival in Copenhagen is a selection of the best and strongest purveyors of electronic music.</strong></p> <p>Each year Str\u00f8m offers lots of free concerts with some of the electronic scene's\u00a0greatest names, master classes with the scene's brightest and music events\u00a0throughout the city. The festival alternatively use the city and have concerts and installations in i.e. the metro and the bell towers of the churches.</p> <p>\u00a0</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.568145976984,
+                    55.66268868194
+                ]
+            },
+            "properties": {
+                "name": "Kulturhavn Festival",
+                "loc": "55.66268868194,12.568145976984",
+                "locs_product_location_0___pdouble": 55.66268868194,
+                "locs_product_location_1___pdouble": 12.568145976984,
+                "period_data": "{\"208878\":{\"period_start_date\":\"2024-08-24T00:00:00\",\"period_end_date\":\"2024-08-25T00:00:00\"}}",
+                "parsed_date_start_0": "2024-08-24T00:00:00",
+                "parsed_date_end_0": "2024-08-25T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 220,
+                "product_category": 58,
+                "category_name": "/Free entry",
+                "website": "https://kulturhavn.kk.dk/en?language=en",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/kulturhavn-festival-gdk1140203",
+                "place": "0:Copenhagen",
+                "desc": "<p>In the last weekend of August, you can indulge in a sea of activities and cultural experiences, all revolving around the harbor and the water.</p> <p>The harbor holds a special part of Copenhagen's history and has transitioned from an industrial port to a blue, recreational area with many activities and havens. At Kulturhavn Festival, you can explore both the harbor's past and the current urban development in Copenhagen's new harbor districts.</p> <p>Every year, the city's cultural creators are invited to dive into the blue spaces along the harbor and contribute with what they do best \u2013 bringing people together and creating unique experiences that inspire, entertain, and challenge us.</p> <p>The festival is always free and offers experiences for everyone. As a festival guest, you will experience existing communities and the opportunity to immerse yourself in workshops, movement, and guided excursions in the harbor. You can experience music, theater, and poetry and exciting projects that live and thrive in and around Copenhagen\u2019s harbor.</p> <p>Kulturhavn Festival is presence, togetherness, and adventure in the blue urban spaces and a chance to bring a new perception of the harbor home with you.</p> <p>Keep yourself update on <a href=\"http://www.kulturhavn.kk.dk\">www.kulturhavn.kk.dk</a>, <a href=\"https://www.facebook.com/Kulturhavn\">Facebook</a> and <a href=\"https://www.instagram.com/kulturhavn.festival/\">Instagram</a>.</p> <p>Kulturhavn Festival is an annual event that brings art, culture, and movement to the harbor. With curiosity and enthusiasm, the festival explores the city's blue-green oases and invites the audience to go on adventure in the city's new and very different harbor districts.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58840671,
+                    55.68007736
+                ]
+            },
+            "properties": {
+                "name": "CHART ART FAIR",
+                "loc": "55.68007736,12.58840671",
+                "locs_product_location_0___pdouble": 55.68007736,
+                "locs_product_location_1___pdouble": 12.58840671,
+                "period_data": "{\"211437\":{\"period_start_date\":\"2024-08-29T00:00:00\",\"period_end_date\":\"2024-09-01T00:00:00\"}}",
+                "parsed_date_start_0": "2024-08-29T00:00:00",
+                "parsed_date_end_0": "2024-09-01T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 3498,
+                "product_category": 58,
+                "category_name": "/Festival",
+                "website": "https://www.chartartfair.com",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/chart-art-fair-gdk1093693",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Get a close look at the Nordic contemporary art scene</strong></p> <p>CHART ART FAIR is a three days long Nordic contemporary art fair, and the leading event of its kind. The fair takes place at The Royal Danish Academy of Fine Arts Kunsthal Charlottenborg, which is situated just by the iconic Nyhavn in Copenhagen (and currently has its fa\u00e7ade covered of an installation by Ai Wei Wei containing more than 3500 salvaged life jackets collected from refugees).</p> <p>CHART ART FAIR was established in 2013 by Gallery Susanne Ottesen, Galleri Bo Bjerggaard, V1 Gallery, Andersen\u2019s Contemporary, and David Risley Gallery. Together, these forward-looking galleries aim to challenge the boundaries and experience of a traditional art fair. Besides from an expanded network of the most prominent Nordic art galleries, CHART\u2019s ambitious programme also offers exciting talks, cultural events and architectural installations.\u00a0</p> <p>Check out the full program and all the themes at <a href=\"https://chartartfair.com/schedule/\">the fair\u2019s website</a>.</p> <p>\u00a0</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0,
+                    55.0
+                ]
+            },
+            "properties": {
+                "name": "Enter Art Fair",
+                "loc": "55,12",
+                "locs_product_location_0___pdouble": 55,
+                "locs_product_location_1___pdouble": 12,
+                "period_data": "{\"208701\":{\"period_start_date\":\"2024-08-29T00:00:00\",\"period_end_date\":\"2024-09-01T00:00:00\"}}",
+                "parsed_date_start_0": "2024-08-29T00:00:00",
+                "parsed_date_end_0": "2024-09-01T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 779,
+                "product_category": 58,
+                "category_name": "/Events",
+                "website": "https://enterartfair.billetexpressen.dk/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/enter-art-fair-gdk1139815",
+                "place": null,
+                "desc": "<p>Since 2019, Enter Art Fair has been an annual highlight that has grown bigger and bigger every year - and for good reason. The fair now features over 85 of the world's leading galleries and their artists, all with their finger on the pulse of contemporary art. The different galleries have been carefully selected, both to ensure top quality, but also to have a diverse representation across art disciplines.</p> <p>Tickets can be purchased either online or at the door. It is also possible to purchase an exclusive VIP package, which includes a personalised experience that includes exclusive museum and gallery visits, dinners, champagne and dinner events with partners and sponsors.</p> <p>Although Enter Art Fair is only five years old, it is already a recognised space for technology and artistic expression where Danish, Scandinavian and international artists and interested parties can gather.</p> <p>Enter Art Fair is the largest international art fair in Scandinavia and always takes place in Copenhagen in August, attracting over 20,000 visitors over several days.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.573630999,
+                    55.704722999
+                ]
+            },
+            "properties": {
+                "name": "Copenhagen Half Marathon",
+                "loc": "55.704722999,12.573630999",
+                "locs_product_location_0___pdouble": 55.704722999,
+                "locs_product_location_1___pdouble": 12.573630999,
+                "period_data": "{\"211439\":{\"period_start_date\":\"2024-09-15T00:00:00\",\"period_end_date\":\"2024-09-15T00:00:00\"}}",
+                "parsed_date_start_0": "2024-09-15T00:00:00",
+                "parsed_date_end_0": "2024-09-15T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 5822,
+                "product_category": 58,
+                "category_name": "/Sport",
+                "website": "https://www.cphhalf.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-half-marathon-gdk1030457",
+                "place": "0:Copenhagen",
+                "desc": "<p>The route passes by some of the highlights of Copenhagen; The King\u2019s New Square, Frederiksberg All\u00e9 and the city lakes as well as the Marble Church, The Old Stock Exchange and The Parliament Christiansborg.</p> <p>Being a World Athletics Elite Label half marathon and a world record course, the CPH Half attracts thousands of runners from all over the world \u2013 top athletes as well as recreational runners, who have chosen Copenhagen as a cool city backdrop for their once in a lifetime running experience, regardless of pace and ambitions.</p> <p>If you're not running yourself, join the 100.000 spectators cheering the brave runners along the course.</p> <p>Join the 25,000 runners when they take on the 21.1 kilometres course at Copenhagen Half Marathon.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57859111,
+                    55.6831264
+                ]
+            },
+            "properties": {
+                "name": "BUSTER Copenhagen international film festival for children and youth",
+                "loc": "55.6831264,12.57859111",
+                "locs_product_location_0___pdouble": 55.6831264,
+                "locs_product_location_1___pdouble": 12.57859111,
+                "period_data": "{\"211438\":{\"period_start_date\":\"2024-09-23T00:00:00\",\"period_end_date\":\"2024-10-06T00:00:00\"}}",
+                "parsed_date_start_0": "2024-09-23T00:00:00",
+                "parsed_date_end_0": "2024-10-06T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 2975,
+                "product_category": 58,
+                "category_name": "/Festival",
+                "website": "https://www.buster.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/buster-copenhagen-international-film-festival-children-and-youth-gdk417863",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>BUSTER - Copenhagen international film festival for children and youth - opens its doors for\u00a0two weeks\u00a0of ambitious and entertaining films from across the world.</strong><br /><br />BUSTER film festival welcomes its audience to a fantastic platform for the Danish and the international film industries.<br /><br />The festival presents a great selection of new exciting, innovative, challenging, and entertaining films for children and youth from all over the world.<br /><br /><strong>Strong topics</strong><br /><br />The festival prides itself in challenging the conventional way of thinking film for a younger audience, and presents a strong and interesting programme.<br /><br />It offers a wide variety of opportunities with\u00a0loads of movies such as animations, comedies and topics from the real world.<br /><br />Besides fantastic films for children and youth, the festival offers exciting workshops and events for both schools and families.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.547877432371,
+                    55.775506723397
+                ]
+            },
+            "properties": {
+                "name": "The Hermitage Run",
+                "loc": "55.775506723397,12.547877432371",
+                "locs_product_location_0___pdouble": 55.775506723397,
+                "locs_product_location_1___pdouble": 12.547877432371,
+                "period_data": "{\"211442\":{\"period_start_date\":\"2024-10-06T00:00:00\",\"period_end_date\":\"2024-10-06T00:00:00\"}}",
+                "parsed_date_start_0": "2024-10-06T00:00:00",
+                "parsed_date_end_0": "2024-10-06T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 1350,
+                "product_category": 58,
+                "category_name": "/Sport",
+                "website": "https://elob.dk/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/hermitage-run-gdk1139952",
+                "place": "0:Copenhagen",
+                "desc": "<p>On 8 October, The Hermitage Run will kick off for the 54th time. The Hermitage Run is a run for everyone, organised by K\u00f8benhavns Idr\u00e6ts Forening and KS - K\u00f8benhavns Skiklub. The Hermitage Run \u00a0has always taken place in the beautiful surroundings of Dyrehaven in North Zealand, and is the<a href=\"https://elob.dk/\"> only fun run close to Copenhagen</a> that is organised in the garden. In 2015, Dyrehaven was added to the UNESCO World Heritage List, and it is known for the Hermitage Castle and the more than 2000 fallow deer that live in the garden. Dyrehaven has maintained its tranquillity while Copenhagen has grown around it. That's why The Hermitage Run is also known as the most beautiful running route in Denmark. The route is 13.3 km and is designed as a figure 8, so you pass the beautiful Hermitage Castle twice during the run.</p> <p>With a focus on nature and environmental protection, the Hermitage Run works with several different sustainability initiatives. Among other things, this year's water cups will be 100% compostable.</p> <p>The Hermitage Run started in 1969, when doctor Peter Schnohr from KIF (K\u00f8benhavns Idr\u00e6ts Forening) and dentist and Olympic skier Svend W. Carlsen from KS (K\u00f8benhavns Skiklub) came up with the idea for a marathon. Together with BT, they were allowed to create the Hermitage Run in Dyrehaven as one of the only running races in Denmark and the only running race ever in Dyrehaven. The run was the catalyst for an entire fitness movement in Denmark, and it is still Denmark's most beautiful and unique running race.</p> <p>As the only fun run in Dyrehaven, the Hermitage Run is recognised as one of Denmark's most beautiful and unique runs. Join the run when it takes place for the 54th time</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0,
+                    55.0
+                ]
+            },
+            "properties": {
+                "name": "Culture Night",
+                "loc": "55,12",
+                "locs_product_location_0___pdouble": 55,
+                "locs_product_location_1___pdouble": 12,
+                "period_data": "{\"211444\":{\"period_start_date\":\"2024-10-11T00:00:00\",\"period_end_date\":\"2024-10-11T00:00:00\"}}",
+                "parsed_date_start_0": "2024-10-11T00:00:00",
+                "parsed_date_end_0": "2024-10-11T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 24688,
+                "product_category": 58,
+                "category_name": "/Autumn Holiday",
+                "website": "https://www.kulturnatten.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/culture-night-gdk421149",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Copenhagen's annual Culture Night kicks off the autumn break in Copenhagen and offers children and adults\u00a0hundreds of\u00a0cultural events in just one night.</strong></p> <p>Experience Copenhagen in a different light and see places you will not normally get access to, when hundreds of museums, churches, exhibition halls, art galleries, humanitarian organisations, political and cultural institutions open their doors to their secret rooms, basements, towers, and cultural events on this one night only. Whether you wish to experience the supreme court, parliament\u00a0or simply take a stroll in the streets - Culture Night is simply beautiful.</p> <p><strong>Culture Pass</strong></p> <p>Your ticket is the Culture Pass, which is a badge that gives you free access to all Culture Night events and free public transport on buses, trains and metro in the Capital Region.</p> <p>You can buy the Culture Pass at most train stations, all 7-Eleven kiosks in the Copenhagen area.</p> <p>The whole city is an integral part of Culture Night, and the range of cultural institutions and venues mirrors how versatile Copenhagen is. There are hundreds of events for all ages, so do not hesitate to bring the kids to Culture Night in Copenhagen.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.576941499,
+                    55.7773208
+                ]
+            },
+            "properties": {
+                "name": "Hubertus Hunt",
+                "loc": "55.7773208,12.576941499",
+                "locs_product_location_0___pdouble": 55.7773208,
+                "locs_product_location_1___pdouble": 12.576941499,
+                "period_data": "{\"211448\":{\"period_start_date\":\"2024-11-03T00:00:00\",\"period_end_date\":\"2024-11-03T00:00:00\"}}",
+                "parsed_date_start_0": "2024-11-03T00:00:00",
+                "parsed_date_end_0": "2024-11-03T00:00:00",
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 11147,
+                "product_category": 58,
+                "category_name": "/Sport",
+                "website": "https://www.hubertusjagt.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/hubertus-hunt-gdk413894",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>The Hubertus Hunt is an annual event held in the Deer Park in Klampenborg, north of Copenhagen. It usually attracts up to 40,000 spectators and 160 riders.</strong></p> <p>Since the foundation of the sports riding club in 1900, every first Sunday in November riders have gathered for the climax of the hunting season: The famous Hubertus Hunt in the Deer Park in Klampenborg. The event has become a traditional picnic in the beautiful forest for 40,000 spectators.</p> <p>160 hunters on horseback participate in the Hubertus Hunt. For them, it is the end of the hunting season, which begins in early April, with hunts in the Deer Park, in forests and estates across the island of Zealand, as well as three hunts in Germany.</p> <p>You can experience the riders in beautiful and dramatic situations, flying over hedges, through the air, deep landings and not least the crossing over the black pond, where one or more riders usually take a dip in the cold muddy water, much to the amusement of the crowd.</p> <p><strong>The route</strong></p> <p>The start is always by Peter Liep's House in the Deer Park, and from there the 13-kilometer wild chase goes through the woods. The fox tails (riders with fox tails) show the way. Then comes the Master (the one with the high hat), then the two Side Masters, whose job it is to keep pace and distance. And then the 160 riders.</p> <p>There are a total of 35 obstacles, which must be overcome. Well inside the route, the riders take a break at the Hermitage Castle, so riders and horses can gather strength for the last part of the ride, which among other obstacles include the crossing of the pond.</p> <p>At the end of the race, the winner of this year's Hubertus Hunt is given the Hubertus chain.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57472842,
+                    55.67641124
+                ]
+            },
+            "properties": {
+                "name": "Annual Copenhagen Film Festival",
+                "loc": "55.67641124,12.57472842",
+                "locs_product_location_0___pdouble": 55.67641124,
+                "locs_product_location_1___pdouble": 12.57472842,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 481,
+                "product_category": 58,
+                "category_name": "/Events",
+                "website": "https://www.annualcphfest.com/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/annual-copenhagen-film-festival-gdk1140441",
+                "place": "0:Copenhagen",
+                "desc": "<p>ACFF is an annual film festival hosted in order to promote and highlight filmmakers and individuals that have contributed to the global effort of making the world a more entertaining and competitive environment for filmmaking.</p> <p>For the 7th time the film festival will take place at the popular Husets Biograf. For the first time will ACFF take place over three days with the aim of showcasing even more filmmakers from around the world. This year's festival received 2900 submissions from around 360 countries worldwide.\u00a0</p> <p>As a result, this year the festival will present 27 independent short films spanning 6 different themes touching on gender identity, ethics and everyday stories. The programme is separated into 2 screening slots per day. Putting humans in the epicentre, each screening slot explores different and new aspects of human dilemmas, gender and sex issues and personal relationships through stories we can all identify with.</p> <p>All films are in English or with English subtitles.</p> <p>The Annual Copenhagen Film Festival is organised by HFP, a pioneer organisation that runs Film Festivals and other events showcasing and championing ideas of diversity. HFP runs 25 film festivals worldwide, spread across 13 different countries.\u00a0</p> <p>Annual Copenhagen Film Festival 7th edition features 27 independent films that span 6 different themes touching upon gender identity, ethics, and everyday stories.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56956443,
+                    55.68476874
+                ]
+            },
+            "properties": {
+                "name": "Cheese Copenhagen 2023",
+                "loc": "55.68476874,12.56956443",
+                "locs_product_location_0___pdouble": 55.68476874,
+                "locs_product_location_1___pdouble": 12.56956443,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 48,
+                "product_category": 58,
+                "category_name": "/Events",
+                "website": null,
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/cheese-copenhagen-2023-gdk1140100",
+                "place": "0:Copenhagen",
+                "desc": "<p>On September 16th, you can join the big cheese celebration in Torvehallerne, when Denmark's largest cheese festival kicks off. Cheese Copenhagen2023 is a free festival where you can experience, listen and taste your way to the current status of Danish cheese culture and all the new trends in Danish cheese production.</p> <p>Fierce domestic and international competition and the increasing awareness of climate and biodiversity require new thinking from dairies and farmers in Denmark. The results are emerging in the form of innovative cheeses, bold product ranges such as terroir-driven single-farm products and cheeses specially designed to replace meat in the meal. <br />For the occasion, Torvehallerne will be divided into 10 areas where guests can taste 75 carefully selected cheeses from all over the country and learn about organic produce.</p> <p>On the festival's \"Ost&\" stage, you can participate in tastings with Rasmus Holmg\u00e5rd, cheese expert at Ost & Ko, cooking school with chef Thomas Alcayga and exciting talks about green meals and willingness to change with Louise Beck Br\u00f8nnum, partner and gastrophysicist at Kost CPH, Marie Hertz, chef and teacher at CulinaH and Suhrs H\u00f8jskole, and Leif Friis J\u00f8rgensen, CEO of Naturm\u00e6lk.</p> <p>Ost & ko is the Danish Dairy Association's cheese culture campaign, which aims to inform, educate and inspire Danes about and within Danish cheeses, cheese culture and Danish dairy entrepreneurship.</p> <p><br />Read more about Ost&ko at <a href=\"https://www.ostogko.dk/\">ostogko.dk</a> or follow Ost & ko on <a href=\"https://www.facebook.com/ostogko\">Facebook</a> and <a href=\"https://www.instagram.com/ostogko/\">Instagram</a>.</p> <p>It will be the year's biggest celebration of Danish organic cheese culture when the Dairy Association and Ost & ko invite you to Cheese Copenhagen 2023 with a special focus on ecology and diversity.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0,
+                    55.0
+                ]
+            },
+            "properties": {
+                "name": "Copenhagen Architecture Festival",
+                "loc": "55,12",
+                "locs_product_location_0___pdouble": 55,
+                "locs_product_location_1___pdouble": 12,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 12527,
+                "product_category": 58,
+                "category_name": "/Exhibition",
+                "website": "https://www.copenhagenarchitecturefestival.com",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-architecture-festival-gdk981443",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Copenhagen Architecture Festival (CAFx) aims to rethink the representation of architecture, highlighting its qualities and diversity and creating discussion.</strong></p> <p>The festival\u00a0was founded in 2014 and now has satellite festivals taking place in Aarhus\u00a0and Aalborg\u00a0as well.\u00a0</p> <p>As a\u00a0visitor, you can enjoy and participate in film screenings, talks, walks, debates, master classes, workshops, conferences and major international exhibitions.</p> <p>Every year, the festival centres around a specific theme, and this year it is <em>Changing Ideals</em>. The idea for this theme comes from the 100-year jubilee of the Bauhaus Movement and The Danish Social Housing Sector. \u00a0</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57472842,
+                    55.67641124
+                ]
+            },
+            "properties": {
+                "name": "Copenhagen Short Film Festival",
+                "loc": "55.67641124,12.57472842",
+                "locs_product_location_0___pdouble": 55.67641124,
+                "locs_product_location_1___pdouble": 12.57472842,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 2423,
+                "product_category": 58,
+                "category_name": "/Events",
+                "website": "https://csff.dk/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/copenhagen-short-film-festival-gdk1127606",
+                "place": "0:Copenhagen",
+                "desc": "<h3>Experience Copenhagen Short Film Festival in November and watch interesting short films of all genres.\u00a0</h3> <p>On the 3rd-8th of November, the Copenhagen Short Film Festival will once again be hosted. Stop by <a href=\"https://www.visitcopenhagen.com/copenhagen/planning/empire-bio-gdk414325\">Empire Bio</a>, <a href=\"https://www.visitcopenhagen.com/copenhagen/planning/cinematheque-gdk410530\">the Cinematheque</a>,\u00a0and Gloria Biograf\u00a0and experience interesting short films made in Denmark and other parts\u00a0around the World. During the film festival, you will also find different kinds of awesome events such as beer tasting and Q&A's\u00a0with the film directors.</p> <p>Once again Copenhagen Short Film Festival is ready to present an interesting short film program, which you may experience in three of Copenhagen's coolest cinemas.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56854324,
+                    55.68252184
+                ]
+            },
+            "properties": {
+                "name": "CPH Beer Week",
+                "loc": "55.68252184,12.56854324",
+                "locs_product_location_0___pdouble": 55.68252184,
+                "locs_product_location_1___pdouble": 12.56854324,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 3611,
+                "product_category": 58,
+                "category_name": "/Events",
+                "website": "https://www.cphbw.dk/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/cph-beer-week-gdk1131609",
+                "place": "0:Copenhagen",
+                "desc": "<p>CPH Beer Week consists of various beer experiences spread across Copenhagen's bars, cultural institutions, restaurants, galleries, and museums. CPH Beer Week is for everyone who wants to discover new tastes and learn about the craft behind good beer, as well as participate in the festival's diverse program of sensory, fun, quirky, educational, and culinary events in Copenhagen. On 14 and 15 May, Israel's Square in the center of Copenhagen will be transformed into a festival site under the name, where you can taste freshly poured draught beers from more than 30 different breweries. Entry to the festival site is free and tasting glasses can be purchased before exploring the wide range of beers on offer. There will also be a varied selection of delicious food and an entertaining stage program. You can see the full program of CPH Beer Week <a href=\"https://www.cphbw.dk/en/highlights/program/\">here</a>.</p> <p>CPH Beer Week is an annual beer festival that celebrates the Danish breweries and beers. In 2022, the festival will take place from 11-21 May.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57917906,
+                    55.67207566
+                ]
+            },
+            "properties": {
+                "name": "DAC Architecture Run",
+                "loc": "55.67207566,12.57917906",
+                "locs_product_location_0___pdouble": 55.67207566,
+                "locs_product_location_1___pdouble": 12.57917906,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 319,
+                "product_category": 58,
+                "category_name": "/Sport",
+                "website": "https://dac.dk/arkitekturloeb/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/dac-architecture-run-gdk1139962",
+                "place": "0:Copenhagen",
+                "desc": "<p>DAC Architecture Run is a unique fun run where you get the opportunity to explore Copenhagen's architecture in a new and different way. It is a very special running experience where the routes take you through beautiful buildings and secret passages, on paths and stairs, in gardens and parks, historic buildings and beautiful museums.</p> <p>The run is untimed, so you can participate whether you run or prefer to walk the routes. Participants can choose to walk 5 kilometres or run either 5 or 10 kilometres on routes that are equally inspiring no matter how fast they run or walk.</p> <p>The race is organised by DAC in collaboration with the running club Sparta.</p> <p>Unique fun run for all levels that gives you special access to buildings that are normally closed to the public, allowing you to experience the city's architecture in a new and different way.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.67203066,
+                    55.5939838
+                ]
+            },
+            "properties": {
+                "name": "Drag\u00f8r Christmas Market at Badstuev\u00e6len",
+                "loc": "55.5939838,12.67203066",
+                "locs_product_location_0___pdouble": 55.5939838,
+                "locs_product_location_1___pdouble": 12.67203066,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 2737,
+                "product_category": 58,
+                "category_name": "/Christmas/Christmas Market",
+                "website": "https://www.visit-dragoer.dk/dragor/oplevelser/jul-i-dragor",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitdragor.com/dragor/explorer-dragor/dragor-christmas-market-badstuevaelen-gdk1113984",
+                "place": "0:Copenhagen",
+                "desc": "<p>In the central square Badstuev\u00e6len\u00a0in the middle of Drag\u00f8r's old town, you can explore the small Christmas stalls, where you can find small Christmas presents and enjoy pancakes, mulled wine and other food and drink.</p> <p>Find all stalls at <a href=\"www.julidragoer.dk/juleboderne\">www.julidragoer.dk/juleboderne</a></p> <p>Read all about Christmas in Drag\u00f8r with all activities throughout the Christmas month <a href=\"www.visitdragor.com/dragor/experiences/christmas-dragor\">www.visitdragor.com/dragor/experiences/christmas-dragor</a></p> <p>There is also entertainment and activities on the square every weekend. Read all about this in below links.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57402797,
+                    55.70266447
+                ]
+            },
+            "properties": {
+                "name": "FC Copenhagen's matches",
+                "loc": "55.70266447,12.57402797",
+                "locs_product_location_0___pdouble": 55.70266447,
+                "locs_product_location_1___pdouble": 12.57402797,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 12439,
+                "product_category": 58,
+                "category_name": "/Sport",
+                "website": "https://www.fck.dk/en",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/fc-copenhagens-matches-gdk1103586",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Watch a football match when visiting Copenhagen.</strong></p> <p>FC Copenhagen is Copenhagen\u2019s local football club. They play in the Danish league Superligaen, and you can watch them play when visiting Copenhagen.</p> <p>FC Copenhagen\u2019s home ground is in the Danish National Stadium <a href=\"https://www.visitcopenhagen.com/copenhagen/telia-parken-gdk414149\">Telia Parken</a> in the Copenhagen neighbourhood <a href=\"https://www.visitcopenhagen.com/copenhagen/culture/family-friendly-osterbro\">\u00d8sterbro</a>.</p> <p>You can read more about FC Copenhagen\u2019s matches on the club\u2019s <a href=\"https://www.fck.dk/en/upcoming-matches\">website</a>.</p> <p>If you want to know more about Danish football, we recommend this <a href=\"https://visitfootball-dot-yamm-track.appspot.com/Redirect?ukey=1B6fK11ZoHFm_MuaFpbq4BwPH_fpQErDxHT8qt_zlFdY-401091396&key=YAMMID-28228384&link=https%3A%2F%2Fwww.visitfootball.dk%2Fthe-complete-travel-guide-to-danish-football%2F\" target=\"_blank\">guide</a>.\u00a0</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.543393373489,
+                    55.699960956686
+                ]
+            },
+            "properties": {
+                "name": "Flids Christmas Market",
+                "loc": "55.699960956686,12.543393373489",
+                "locs_product_location_0___pdouble": 55.699960956686,
+                "locs_product_location_1___pdouble": 12.543393373489,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 5455,
+                "product_category": 58,
+                "category_name": "/Market/Agricultural show",
+                "website": "https://www.flidmarked.com/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/flids-christmas-market-gdk1121546",
+                "place": null,
+                "desc": "<p><strong>With their Christmas market, Flid is once again bringing art and design to Copenhageners and visitors in N\u00f8rrebrohallen. The market filled with artisans, designers, and artists will take place in December.</strong></p> <p>The exhibition and marketing platform Flid open its doors to a large sustainable market in N\u00f8rrebrohallen, where many creatives exhibit. For the Christmas market, designers and artists will sell their unique craftsmanship, handmade designs, and original works, giving visitors a unique insight into how the design and trends in the creative industries will be in the future.</p> <p>The artistic focal point of the Christmas market will be ceramics, graphics, textile design, art, illustration, wood design, lighting design, crafts, and jewelry design.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5681471,
+                    55.6736841
+                ]
+            },
+            "properties": {
+                "name": "Friday Rock",
+                "loc": "55.6736841,12.5681471",
+                "locs_product_location_0___pdouble": 55.6736841,
+                "locs_product_location_1___pdouble": 12.5681471,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 39033,
+                "product_category": 58,
+                "category_name": "/Music/Concert",
+                "website": "https://www.fredagsrock.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/friday-rock-gdk474730",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Fredagsrock at Pl\u00e6nen in Tivoli is probably Denmark\u2019s most popular venue for open-air concerts</strong></p> <p>Every year, Fredagsrock (literally Friday\u2019s Rock)\u00a0attracts around half a million pop and rock fans in all ages.</p> <p>Year after year,\u00a0Tivoli presents a diverse program, covering both international stars, new talents and artists that will bring nostalgia to the grey-haired guests.</p> <p>The concerts are free once the entrance to Tivoli has been paid.</p> <p>\u00a0</p> <p><strong>When Tivoli Gardens in Copenhagen opens for the summer season 2016, it is also time for Friday Rock concerts with Danish and international stars on the amusement park's open air stage. The concerts are free once the entrance to Tivoli has been paid.</strong></p> <p>In 2016\u00a0Tivoli Gardens in Copenhagen presents the most ambitious Friday Rock programme ever. With names like Snoop Dogg, Jessie J, Marie Key, Belle & Sebastian, TV 2, Quadron, Jamie Cullum and DAD, you can enjoy no less than 28 artists at 24 Friday Rock concerts this summer.</p> <p>Friday Rock in Tivoli has developed into a popular Copenhagen summer event and takes place for the 19th time in 2015. Friday Rock presents a wide range of music genres. From the more progressive and up and coming to mainstream artists.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.63992785709,
+                    55.647890535791
+                ]
+            },
+            "properties": {
+                "name": "Gr\u00f8n Amager",
+                "loc": "55.647890535791,12.63992785709",
+                "locs_product_location_0___pdouble": 55.647890535791,
+                "locs_product_location_1___pdouble": 12.63992785709,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 3513,
+                "product_category": 58,
+                "category_name": "/Music/Concert",
+                "website": "https://groenkoncert.dk/byer/groen-amager/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/gron-amager-gdk1116001",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Ti\u00f8ren in Copenhagen will be flooded with party animals and music lovers as the legendary music festival\u00a0kick off on 15 July 2021.\u00a0</strong><br /><br />Through the past 30 years, the Green Concert has been established as an institution in the Danish musical and cultural life.<br /><br />The performing artists are all prominent figures on the Danish music scene, some of them are experienced and established artists, others are younger and up-coming. They will also be\u00a0in Valby\u00a0on 25 July.\u00a0<br /><br /><strong>Grand scale touring concert</strong><br /><br />Not only is Green Concert Denmark's largest touring concert, it is also the largest of its kind in Northern Europe.<br /><br />Last year, 175,500 people entered the festival gates to the eight concerts that are spread out over the whole country.<strong><br /></strong></p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.52293781,
+                    55.64555335
+                ]
+            },
+            "properties": {
+                "name": "Gr\u00f8n Valby",
+                "loc": "55.64555335,12.52293781",
+                "locs_product_location_0___pdouble": 55.64555335,
+                "locs_product_location_1___pdouble": 12.52293781,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 11097,
+                "product_category": 58,
+                "category_name": "/Music/Concert",
+                "website": "https://www.groenkoncert.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/gron-valby-gdk414270",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>The Valby Park in Copenhagen will be flooded with party animals and music lovers as the legendary music festival\u00a0kick off on 25 July 2021.\u00a0</strong><br /><br />Through the past 30 years, the Green Concert has been established as an institution in the Danish musical and cultural life.<br /><br />The performing artists are all prominent figures on the Danish music scene, some of them are experienced and established artists, others are younger and up-coming. They will also be at Amager\u00a0on 15 July.\u00a0<br /><br /><strong>Grand scale touring concert</strong><br /><br />Not only is Green Concert Denmark's largest touring concert, it is also the largest of its kind in Northern Europe.<br /><br />Last year, 175,500 people entered the festival gates to the eight concerts that are spread out over the whole country.<strong><br /></strong></p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.565596699,
+                    55.674733505
+                ]
+            },
+            "properties": {
+                "name": "Halloween in Tivoli",
+                "loc": "55.674733505,12.565596699",
+                "locs_product_location_0___pdouble": 55.674733505,
+                "locs_product_location_1___pdouble": 12.565596699,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 14189,
+                "product_category": 58,
+                "category_name": "/Autumn Holiday",
+                "website": "https://www.tivoligardens.com",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/halloween-tivoli-gdk1120891",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Halloween, Christmas, Winter and Summer each have their own uniquely themed season in Tivoli, and during Fall the gardens are redecorated to convey scary (but still cozy) Halloween atmosphere.</strong></p> <p>Special Hallooween\u00a0exhibitions and events fill the gardens with the \"scaryhouse\" as a big hit among young and old. The Halloween program also includes the traditional pumpkin competition and the Monsters Night Out parade. See tivoli's\u00a0website for more details.\u00a0</p> <p><strong>About Tivoli\u00a0Gardens</strong></p> <p>Tivoli\u00a0Gardens is a must for all visitors to the city, and it's location right in the heart of the bustling city makes the more than 175-year old park even more unique for a theme park.<strong>\u00a0</strong></p> <p>Tivoli\u00a0Gardens was founded in 1843 and has become a national treasure and an international attraction. Fairy tale writer Hans Christian Andersen visited many times, as did Walt Disney who even found the inspiration to his own Disney World here.</p> <p>Part of\u00a0Tivoli\u00a0Gardens' secret is that there is something for everyone. The scenery is beautiful with exotic architecture, historic buildings and lush gardens. At night, thousands of coloured lights create a fairy tale atmosphere that is completely unique.</p> <p><strong>Magical and nostalgic rides</strong></p> <p>The rides are all designed to match\u00a0Tivoli's\u00a0architecture and gardens. Some rides are wonderfully nostalgic. Others will match the expectations of the keenest thrill seekers, e.g. the Vertigo which will turn you upside down at 100 km/h and was voted Europe\u2019s Best Ride in 2014.</p> <p>Tivoli\u2019s\u00a0oldest and most popular ride, the wooden Roller Coaster from 1914, is one of only seven roller coasters worldwide which have a brakeman on board every train.</p> <p><em>TRAVEL TIP:\u00a0With a <a href=\"https://copenhagencard.com/\">Copenhagen Card</a> in hand you get free admission to Tivoli\u00a0and over 80 attractions as well as free public transportation in the whole capital region.\u00a0</em></p> <p><strong>Dining in\u00a0</strong><strong>Tivoli</strong><strong>\u00a0Gardens</strong></p> <p>When it comes to food,\u00a0Tivoli\u00a0is equally diverse. Lots of people will bring a picnics to the garden, but you can also choose from\u00a0Tivoli's\u00a0broad selection of restaurants. You'll find everything from traditional Danish cuisine to French bistro or Asian food, including a new restaurant from\u00a0Michelin-rewarded chef<strong>,\u00a0</strong>Henrik\u00a0Yde, who in\u00a0i 2017 opened\u00a0Kiin\u00a0Kiin\u00a0Piin\u00a0To in the Chinese Tower.</p> <p>Classy\u00a0<a href=\"https://www.visitcopenhagen.com/copenhagen/nimb-brasserie-gdk493515\">Nimb\u00a0</a>and\u00a0<a href=\"https://www.visitcopenhagen.com/copenhagen/nimb-hotel-gdk1079450\">Nimb\u00a0Hotel</a>\u00a0are situated in\u00a0Tivoli\u00a0Gardens and in restaurant\u00a0<a href=\"https://www.visitcopenhagen.com/copenhagen/fru-nimb-gdk968342\">Fru\u00a0Nimb\u00a0</a>(Mrs\u00a0Nimb), you can get traditional Danish\u00a0sm\u00f8rrebr\u00f8d\u00a0(open-faced sandwiches). A new addition to the\u00a0Nimb\u00a0universe is restaurant\u00a0<a href=\"https://www.visitcopenhagen.com/copenhagen/gemyse-gdk1096044\">Gemyse</a>, an urban garden restaurant that focuses on dishes with quality vegetables and ecology. Another newcomer from\u00a0Nimb\u00a0is\u00a0<a href=\"https://www.visitcopenhagen.com/copenhagen/cakenhagen-gdk1100738\">Cakenhagen\u00a0</a>that serves coffee, cakes and champagne.</p> <p>Do you want to know more about dining\u00a0in the city centre? Check out our <a href=\"https://www.visitcopenhagen.com/copenhagen/places-eat/restaurants-city-centre-0\">guide</a>.\u00a0</p> <p>\u00a0</p> <p><strong>Visit the city's other top attractions</strong></p> <p>Tivoli\u00a0is among Copenhagen's top attractions. You can learn more about the top attractions <a href=\"https://www.visitcopenhagen.com/copenhagen/sightseeing/top-30-attractions\">here</a>.\u00a0</p> <p>12 October - 5 November you can celebrate Halloween in Tivoli.</p> <p>\u00a0</p> <p>Every year for Halloween the Gardens are decked out in warm colors with plenty to explore among the friendly ghosts, spiders, scarecrows and over 20,000 pumpkins that provide the setting for Tivoli\u2019s cozy autumn season.</p> <p>Purchase Halloween items, decorations and delicious goodies from the stalls, be bewitched by the beautiful settings, and join us as we search for this year\u2019s biggest giant pumpkin.</p> <p>Tivoli offers spectacular, exotic architecture, exquisite gardens and scenery, many rides, and two scary houses that are open daily. Tivoli also offers an unparalleled selection of restaurants \u2013 from fast food to traditional Danish cuisine to exquisite gourmet fare. There\u2019s something for every palate.</p> <p>The entrance is free with the Copenhagen Card, and multi\u00a0ride tickets can be bought at the entrance.</p> <p>\u00a0</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57525662,
+                    55.6826517
+                ]
+            },
+            "properties": {
+                "name": "MIX COPENHAGEN LGBTQIA+ Film Festival",
+                "loc": "55.6826517,12.57525662",
+                "locs_product_location_0___pdouble": 55.6826517,
+                "locs_product_location_1___pdouble": 12.57525662,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 5676,
+                "product_category": 58,
+                "category_name": "/Festival",
+                "website": "https://www.mixcopenhagen.dk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/mix-copenhagen-lgbtqia-film-festival-gdk561182",
+                "place": "0:Copenhagen",
+                "desc": "<p style=\"tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; background: white; margin: 0cm 0cm 15.0pt 0cm;\"><strong><span style=\"font-size: 10.0pt; font-family: 'Arial',sans-serif; color: #353535;\">MIX COPENHAGEN LGBTI+\u00a0Film Festival is one of the oldest in the world</span></strong></p> <p style=\"tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; background: white; box-sizing: border-box; text-decoration-style: initial; text-decoration-color: initial; margin: 0cm 0cm 15.0pt 0cm;\"><span style=\"font-size: 10.0pt; font-family: 'Arial',sans-serif; color: #353535;\">Founded in 1986, MIX COPENHAGEN is for a diverse audience. With their films they seek to represent all sexualities and genders. The screenings appeal to all film lovers and everyone else interested in cinema with a queer twist. They showcase movies that inspire, make you think, entertain and keeps the party going. They show movies from all around the world and this year they have cooperated with ShanghaiPRIDE and received a curated short film programme from them that you can enjoy during the festival.\u00a0</span></p> <p style=\"tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; background: white; box-sizing: border-box; text-decoration-style: initial; text-decoration-color: initial; margin: 0cm 0cm 15.0pt 0cm;\"><strong style=\"box-sizing: border-box;\"><span style=\"font-size: 10.0pt; font-family: 'Arial',sans-serif; color: #353535;\">It makes you think</span></strong></p> <p style=\"tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; background: white; box-sizing: border-box; text-decoration-style: initial; text-decoration-color: initial; margin: 0cm 0cm 15.0pt 0cm;\"><span style=\"font-size: 10.0pt; font-family: 'Arial',sans-serif; color: #353535;\">Since 1986, MIX Copenhagen has screened films that seek to question and explore sexualities, affect the contemporary gender debate and reflect a diverse and colourful world. They select films that have the potential to affect personal and societal expectations, and work towards increasing the visibility of LGBTI+ stories in film and media. They are one of the world's oldest annual LGBT film festivals and each year more than 12,000 people attend our screenings and events.</span></p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58676402,
+                    55.6752674
+                ]
+            },
+            "properties": {
+                "name": "Santa Lucia parade in kayaks",
+                "loc": "55.6752674,12.58676402",
+                "locs_product_location_0___pdouble": 55.6752674,
+                "locs_product_location_1___pdouble": 12.58676402,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 86936,
+                "product_category": 58,
+                "category_name": "/Christmas/Christmas Market",
+                "website": "https://www.facebook.com/events/779860019769937/?ref=newsfeed",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/santa-lucia-parade-kayaks-gdk1106677",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Experience the floating Santa Lucia parade in Copenhagen\u2019s canals.</strong></p> <p>13 December, you can experience an alternative take on the traditional, Danish Santa Lucia parade, when kayaks sail through the canals dressed in lights and Christmas decorations. \u00a0</p> <p>The parade is a very beautiful sight, that can be enjoyed from the quayside around Copenhagen. The kayakers will be singing Christmas carols in Nyhavn, Christianshavn and by H\u00f8jbro Plads. \u00a0</p> <p>If you would like to participate as part of the parade, kayaks can be booked here <a href=\"https://events.octopuspms.com/restaurant/BA899021-4F25-458C-B946-87AC9C67E757\">EventSiteWeb (octopuspms.com).</a></p> <p><br />The evening starts at Kayak Bar with some nice hot mulled wine & \u00e6bleskiver from 15:00.</p> <p>17:00 departure from Kayak Republic / Kayak Bar</p> <p>17:15 Nyhavn 1st stop with singing</p> <p>17:45 Christianshavn 2nd stop with singing</p> <p>18:10 Blox 3rd stop with song</p> <p>18:30 H\u00f8jbro Plads 4th stop with song</p> <p>18:45 Kayak Bar and Republic last stop with song.</p> <p>Afterwards, there is a cosy wrap-up of the evening at Kayak Republic / Kayak Bar with more mulled wine and \u00e6bleskiver. There will also be served hot Bouillabaisse with bread to share as dinner with friends and family at Kayak Bar.\u00a0</p> <p>Dinner can be booked here <a href=\"https://events.octopuspms.com/restaurant/4AE2DB7E-ECBF-45BB-B089-65422D246B43\">EventSiteWeb (octopuspms.com)</a></p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.57839383,
+                    55.68852203
+                ]
+            },
+            "properties": {
+                "name": "SMK Fridays",
+                "loc": "55.68852203,12.57839383",
+                "locs_product_location_0___pdouble": 55.68852203,
+                "locs_product_location_1___pdouble": 12.57839383,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 1926,
+                "product_category": 58,
+                "category_name": "/History",
+                "website": "https://www.smk.dk/en/article/smk-fridays/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/smk-fridays-gdk1111218",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Copenhagen\u2019s cultural Friday bar at SMK.</strong></p> <p>Seven Fridays a year, SMK invites you to an after-hours event where you can take in the exhibitions in a new. Informal way. Here, you can kick-back with a drink and experience art talks, music, art and performance.</p> <p>Each event comes with a specific theme that sets the stage for the night.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0,
+                    55.0
+                ]
+            },
+            "properties": {
+                "name": "Summer Classic",
+                "loc": "55,12",
+                "locs_product_location_0___pdouble": 55,
+                "locs_product_location_1___pdouble": 12,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 7745,
+                "product_category": 58,
+                "category_name": "/Music/Concert",
+                "website": "http://www.tivoligardens.com/en/sommerklassisk",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/summer-classic-gdk1077687",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Bring the family when\u00a0</strong><strong>Tivoli</strong><strong> presents their classical music program, </strong><strong>Summer Classic.</strong></p> <p>Every summer, Summer Classic presents yet another exciting classical music program in Tivoli Gardens. The program is filled with concerts with national\u00a0 internationally renowned artists.</p> <p><strong>Tivoli has renewed the classical music program</strong></p> <p>Bring the family when Tivoli presents this year\u00b4s classical music program, SommerKlassisk, which replaces Tivoli Festival. Besides the new name, you can look forward to many new experiences in the coming season.\u00a0</p> <p>In 2016, SommerKlassisk gives 65 concerts on the big lawn in Tivoli. This includes intimate concerts and sing-along concerts. You will get the oportunity to experience several international top performers. 43 of the concerts are free, if you have a season pass to the Gardens.</p> <p><strong>A new Sunday tradition is starting</strong></p> <p>You can look forward to a new Tivoli tradition, The Sunday Matin\u00e9e. Every Sunday, during the summer, Tivoli presents new Sunday concerts. The program counts everything from the best new classical music talents to the Budapest Orchestra, who is awarded one of the world\u2019s top ten classical orchestras. The Sunday Matin\u00e9e starts at 15:00 every Sunday in the season.</p> <p><strong>Champagnegalop for children</strong></p> <p>In 2016, SommerKlassisk is also for children. Tivoli will open the classical music universe for the young people by giving them a different and sensuous music experience. This will happen by the launch of a new music amusement ride for children called \u201cChampagnegaloppen\u201d.</p> <p>\u201cChampagnegaloppen\u201d is a music caravan, where children meet musicians from the symphony orchestra, Tivoli Copenhagen Phil, children from Tivoli-Guard and Tivoli\u2019s ballet-school. A professional actor is hired to play Tivolis first musician chief, the component H.C. Lumbye. Lumbye guides the children through Champagnegaloppen, which moves from the Aquarium to Tivolis concerthalls. It is free to try Champagnegaloppen, which is set in motion every Saturday at 14:00 in the classical music season.</p> <p>You can find the program for the whole season here: <a title=\"SommerKlassisk\" href=\"http://www.tivoli.dk/da/sommerklassisk\">http://www.tivoli.dk/da/sommerklassisk</a></p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.67494647,
+                    55.59360508
+                ]
+            },
+            "properties": {
+                "name": "The \u00d6resund Market",
+                "loc": "55.59360508,12.67494647",
+                "locs_product_location_0___pdouble": 55.59360508,
+                "locs_product_location_1___pdouble": 12.67494647,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 715,
+                "product_category": 58,
+                "category_name": "/Music/Concert",
+                "website": "https://www.facebook.com/groups/1964137057230896/about/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitdragor.com/dragor/explorer-dragor/oresund-market-gdk1114296",
+                "place": "0:Copenhagen",
+                "desc": "<p>The \u00d6resund\u00a0Market consists of really delicious Street Food, from a number of Street Food Denmark's skilled members, bar with beer and cocktails from Royal Unibrew, Lounge DJ in the form of our local hero DJ Nick, coffee cake, wine from Lowin, cheese from young Dutchman Nells Dutch Cheese Farm, as well as a delicious Lounge area from last year's popular Gr\u00f6nfeld.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.543232440949,
+                    55.69980376077
+                ]
+            },
+            "properties": {
+                "name": "Veras Market in N\u00f8rrebrohallen",
+                "loc": "55.69980376077,12.543232440949",
+                "locs_product_location_0___pdouble": 55.69980376077,
+                "locs_product_location_1___pdouble": 12.543232440949,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 3439,
+                "product_category": 58,
+                "category_name": "/Market/Agricultural show",
+                "website": "https://www.facebook.com/events/407866920143679/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/veras-market-norrebrohallen-gdk1116556",
+                "place": null,
+                "desc": "<p><strong>Shop from the most stylish private wardrobes in Copenhagen and hang out at Veras Market, a hip second-hand clothing market which is open all year round.\u00a0</strong></p> <p>This is where local fashionistas ditch their (still gorgeous) garments as styles change, and you can pick up some amazing bargains from more than\u00a0eighty outdoors stalls in the summer, indoors\u00a0in the winter.\u00a0Spice Girls, Britney Spears and other pop / R'n'B hits from the '90s and '00s blasts from the speakers,\u00a0and food trucks dish out coffee and snacks. Styles tend to the colourful and flamboyant, rather than toned down Scandi cool.\u00a0You can also swap your own clothes for new in\u00a0<span class=\"gmail-il\">Veras</span>\u00a0Stall.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.53525018692,
+                    55.693660532952
+                ]
+            },
+            "properties": {
+                "name": "Veras Market under Buen",
+                "loc": "55.693660532952,12.53525018692",
+                "locs_product_location_0___pdouble": 55.693660532952,
+                "locs_product_location_1___pdouble": 12.53525018692,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 18116,
+                "product_category": 58,
+                "category_name": "/Market/Agricultural show",
+                "website": "https://verasvintage.dk/market/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/veras-market-under-buen-gdk1116964",
+                "place": null,
+                "desc": "<p><strong>Shop from the most stylish private wardrobes in Copenhagen and hang out at Veras Market, a hip second-hand clothing market that is open all year round.\u00a0</strong></p> <p>This is where local fashionistas ditch their (still gorgeous) garments as styles change, and you can pick up some amazing bargains from more than\u00a0eighty outdoor stalls in the summer, indoors\u00a0in the winter.\u00a0Spice Girls, Britney Spears, and other pop / R'n'B hit from the '90s and '00s blasts from the speakers,\u00a0and food trucks dish out coffee and snacks. Styles tend to the colorful and flamboyant, rather than toned down Scandi cool.\u00a0You can also swap your own clothes for new ones in\u00a0<span class=\"gmail-il\">Veras</span>\u00a0Stall.</p> <p><strong>Shop from the most stylish private wardrobes in Copenhagen and hang out at\u00a0Veras\u00a0Market, a hip second-hand clothing market which is open all year round.</strong>\u00a0</p> <p>This is where local\u00a0fashionistas\u00a0ditch their (still gorgeous) garments as styles change, and you can pick up some amazing bargains from more than\u00a0eighty outdoors stalls in the summer, indoors\u00a0in the winter.\u00a0Spice Girls, Britney Spears and other pop /\u00a0R'n'B\u00a0hits from the '90s and '00s blasts from the speakers,\u00a0and food trucks dish out coffee and snacks. Styles tend to the colourful and flamboyant, rather than toned down\u00a0Scandi\u00a0cool.\u00a0You can also swap your own clothes for new in\u00a0<span class=\"gmail-il\">Veras</span>\u00a0Stall.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.56565896,
+                    55.67465415
+                ]
+            },
+            "properties": {
+                "name": "Wednesday Jazz in Tivoli",
+                "loc": "55.67465415,12.56565896",
+                "locs_product_location_0___pdouble": 55.67465415,
+                "locs_product_location_1___pdouble": 12.56565896,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 13387,
+                "product_category": 58,
+                "category_name": "/Music/Concert",
+                "website": "https://www.tivoligardens.com",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/wednesday-jazz-tivoli-gdk1110292",
+                "place": "0:Copenhagen",
+                "desc": "<p><strong>Weekly world-class jazz in Tivoli Gardens.</strong></p> <p>Every Wednesday night at 19, 20 and 21, you can experience some of Denmark\u2019s best, current jazz performers in Tivoli\u00a0Gardens at the scene the Orangery. Each month they tackle a new theme, including Jazz with a Sense of Place, Grooves, Blues & Ballads or Jazz-a-nova.</p> <p>The performers will be backed by the Tivoli Ensemble and conductor Peter Jensen, and the concerts are free once you have bought your entrance ticket to Tivoli.</p> <p>Find more info about the concerts on Tivoli\u2019s <a href=\"https://www.tivoligardens.com/\">website</a>.</p>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.58172029,
+                    55.70474513
+                ]
+            },
+            "properties": {
+                "name": "\u00c5ben Festival",
+                "loc": "55.70474513,12.58172029",
+                "locs_product_location_0___pdouble": 55.70474513,
+                "locs_product_location_1___pdouble": 12.58172029,
+                "period_data": null,
+                "bs_cc_gratis": null,
+                "bs_cc_extra": null,
+                "bs_cc_discount": null,
+                "channel_views": 1057,
+                "product_category": 58,
+                "category_name": "/Festival",
+                "website": "https://xn--ben-tla.com/",
+                "site": "http://api.www.visitcopenhagen.com/",
+                "ss_field_canonical_url": "https://www.visitcopenhagen.com/copenhagen/planning/aben-festival-gdk1139997",
+                "place": "0:Copenhagen",
+                "desc": "<p>\u00c5ben Festival is a district and cultural festival that is based on collaborations between local cultural<br />forces in \u00d8sterbro and Nordhavn. The festival unites local cultural creators in a tribute to diversity,<br />collaborations and cultural experiences.</p> <p><br />\u00c5ben Festival is run by Kulturdistriktet, an association of artists, associations, institutions, and<br />companies in \u00d8sterbro and Nordhavn, who work together to make culture the focal point for the<br />development of communities in the city.</p> <p><strong>True to tradition, \u00c5ben Festival completes the summer with a celebration of local commitment and</strong><br /><strong>community. For the fourth year in a row, more than 50 local actors from \u00d8sterbro and Nordhavn come</strong><br /><strong>together and invite the city to cultural events created by and for local enthusiasts. The events are</strong><br /><strong>created by local artists, established cultural institutions, associations and newly started initiatives,</strong><br /><strong>which have come together to create visibility about the unique cultural life of the two districts.</strong></p>"
+            }
+        }
+    ]
+}
