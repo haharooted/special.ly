@@ -1,16 +1,20 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useContext } from 'react';
 import { View, Text, ScrollView, Image, TouchableOpacity, StyleSheet } from 'react-native';
 import { Card, Rating } from 'react-native-elements';
 import MapView, { Marker } from 'react-native-maps';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 import * as Location from 'expo-location/src/Location';
 import demoData from './shop_data.json';
+import { UserContext } from '../../utilities/UserContext';
 import { FontAwesome } from '@expo/vector-icons'; // Import for the star icon
 
 
 
 
 export default function ShopScreenMap({ onMapItemClick }) {
+  const { user, setUser } = useContext(UserContext);
+
+  console.log("User -> ", user)
   const [selectedShop, setSelectedShop] = useState(null);
   const [userLocation, setUserLocation] = useState(null);
   const [region, setRegion] = useState({

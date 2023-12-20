@@ -1,11 +1,13 @@
-import React, { useState } from 'react';
+import React, { useState, useContext } from 'react';
+import { UserContext } from '../../utilities/UserContext';
 import { View, StyleSheet, Dimensions, ScrollView, Text } from 'react-native';
 import ShopScreenMap from './ShopScreenMap';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 
 const MainScreen = () => {
+    const { user, setUser } = useContext(UserContext);
     const [clickedItemName, setClickedItemName] = useState(null);
-
+    console.log("User -> ", user)
     const handleMapItemClick = (itemName) => {
         setClickedItemName(itemName); // Set the name of the clicked item
     };

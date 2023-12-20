@@ -4,6 +4,7 @@ import { NavigationContainer } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import Ionicons from 'react-native-vector-icons/Ionicons'; // icons til senere
 import { LogBox } from 'react-native';
+import { createStackNavigator } from '@react-navigation/stack';
 LogBox.ignoreLogs(['No native splash screen registered for given view controller.']);
 
 //import FoundationIcon from 'react-native-vector-icons/Foundation';
@@ -26,6 +27,19 @@ import FriendsScreen from "../app/screens/FriendsScreen"; //
 import NearMeScreen from "../app/screens/NearMeScreen"; // 
 import NewEventsScreen from "../app/screens/NewEventsScreen"; // 
 import ShopScreenMap from "../app/screens/ShopScreenMap"; // 
+import ProfileScreen from "../app/screens/ProfileScreen"; // 
+import LoginScreen from "../app/screens/LoginScreen"; // 
+
+const ProfileStack = createStackNavigator();
+
+const ProfileStackScreen = () => (
+  <ProfileStack.Navigator>
+    <ProfileStack.Screen name="Min profil" component={ProfileScreen} />
+    <ProfileStack.Screen name="Login" component={LoginScreen} />
+    {/* Add other screens here if needed */}
+  </ProfileStack.Navigator>
+);
+
 
 const Tab = createBottomTabNavigator();
 
@@ -50,6 +64,8 @@ const Navigator = () => {
               iconName = focused ? 'wallet' : 'wallet-outline';
             } else if (route.name === 'Hjem') {
               iconName = focused ? 'home' : 'home-outline';
+            } else if (route.name === 'Profil') {
+              iconName = focused ? 'person' : 'person-outline';
             } else if (route.name === 'Butikker') {
               iconName = focused ? 'shopping' : 'shopping-outline';
               return <MaterialCommunityIcons name={iconName} size={size} color={color} />;
@@ -72,11 +88,11 @@ const Navigator = () => {
       >
         <Tab.Screen name="Hjem" component={MainScreen} />
         <Tab.Screen name="Map" component={MapScreen} />
-        <Tab.Screen name="Opret event" component={CreateEventScreen} />
-        <Tab.Screen name="venner" component={FriendsScreen} />
-        <Tab.Screen name="Nær mig" component={NearMeScreen} />
+        {/* <Tab.Screen name="venner" component={FriendsScreen} />  */}
         <Tab.Screen name="Events" component={NewEventsScreen} />
         <Tab.Screen name="Butikker" component={ShopScreenMap} />
+        <Tab.Screen name="Profil" component={ProfileStackScreen} />
+
 
       </Tab.Navigator>
     </NavigationContainer>
