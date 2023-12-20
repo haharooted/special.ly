@@ -41,18 +41,18 @@ const ProfileScreen = ({ navigation }) => {
       : [...selectedCategories, category];
   
     setSelectedCategories(newFavorites);
-    await updateFavoritesInAsyncStorage(newFavorites); // Update AsyncStorage
+    await updateFavoritesInAsyncStorage(newFavorites); // opdater AsyncStorage
   
-    // Update user in context
+    // opdater bruger i context
     const updatedUser = { ...user, favorites: newFavorites };
     setUser(updatedUser);
   
     console.log("Updated to new favorites -> ", newFavorites);
-    console.log("user: ", updatedUser); // Now this should log the updated user
+    console.log("user: ", updatedUser); // print den opdaterede bruger
   };
 
   const handleLogout = () => {
-    setUser(null); // Remove user from global state
+    setUser(null); // fjern gbruger fra global state
   };
 
   const renderCategory = ({ item }) => (
@@ -68,13 +68,13 @@ const ProfileScreen = ({ navigation }) => {
   if (user) {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcomeText}>Hvad er dine interesser, {user.username}?</Text>
+        <Text style={styles.welcomeText}>Hvad er dine interesser, {user.username}?</Text> 
         <FlatList
           data={categories}
           renderItem={renderCategory}
           keyExtractor={item => item}
         />
-        <Button title="Logout" onPress={handleLogout} />
+        <Button title="Log ud" onPress={handleLogout} />
       </View>
     );
   }
@@ -82,7 +82,7 @@ const ProfileScreen = ({ navigation }) => {
   return (
     <View style={styles.container}>
       <Button title="Login" onPress={() => navigation.navigate('Login')} />
-      <Button title="SignUp" onPress={() => navigation.navigate('SignUp')} />
+      <Button title="Opret bruger" onPress={() => navigation.navigate('SignUp')} />
     </View>
   );
 };

@@ -19,7 +19,7 @@ import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityI
 
 // screenz
 import MainScreen from "../app/screens/MainScreen"; // 
-//import SalesScreen from "../app/screens/SalesScreen"; // 
+import SalesScreen from "../app/screens/SalesScreen"; // 
 import MapScreen from "../app/screens/MapScreen"; // 
 //import TableScreen from "../screens/TableScreen"; // 
 import CreateEventScreen from "../app/screens/CreateEventScreen"; // 
@@ -66,6 +66,8 @@ const Navigator = () => {
               iconName = focused ? 'home' : 'home-outline';
             } else if (route.name === 'Profil') {
               iconName = focused ? 'person' : 'person-outline';
+            } else if (route.name === 'Tilbud') {
+              iconName = focused ? 'cash' : 'cash-outline';
             } else if (route.name === 'Butikker') {
               iconName = focused ? 'shopping' : 'shopping-outline';
               return <MaterialCommunityIcons name={iconName} size={size} color={color} />;
@@ -87,7 +89,8 @@ const Navigator = () => {
         })}
       >
         <Tab.Screen name="Hjem" component={MainScreen} />
-        <Tab.Screen name="Map" component={MapScreen} />
+        <Tab.Screen name="Tilbud" component={SalesScreen} />
+        {/*<Tab.Screen name="Map" component={MapScreen} />*/}
         {/* <Tab.Screen name="venner" component={FriendsScreen} />  */}
         <Tab.Screen name="Events" component={NewEventsScreen} />
         <Tab.Screen name="Butikker" component={ShopScreenMap} />

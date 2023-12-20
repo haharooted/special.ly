@@ -308,6 +308,26 @@
             }
         },
         "name": "Husted Vin Gl. Strand",
+        "sales": [
+            {
+                "name": "6x Chai d Oeuvre Pinot Noir 2022",
+                "price": 399,
+                "normalPrice": 600,
+                "imageUrl": "https://www.andrupvin.dk/media/wysiwyg/Design_uden_navn_-_2022-11-03T091813.865.png"
+            },
+            {
+                "name": "6x Calmel + Joseph Villa Blanche Pinot Noir 2021",
+                "price": 350,
+                "normalPrice": 650,
+                "imageUrl": "https://www.platinumwinesbarbados.com/cdn/shop/products/villa-blanche-pinot-noir-2019_jpg_480x.png?v=1696122416"
+            },
+            {
+                "name": "6x Cave De Beblenheim Alsace Pinot Noir 2021",
+                "price": 299,
+                "normalPrice": 550,
+                "imageUrl": "https://images.vivino.com/thumbs/W8e4hT78Th6xt-YIMLnYaQ_pb_600x600.png"
+            }
+        ],
         "opening_hours": {
             "open_now": false,
             "periods": [
@@ -470,6 +490,26 @@
             }
         },
         "name": "Husted Vin Aalborg",
+        "sales": [
+            {
+                "name": "6x Chai d Oeuvre Pinot Noir 2022",
+                "price": 399,
+                "normalPrice": 600,
+                "imageUrl": "https://www.andrupvin.dk/media/wysiwyg/Design_uden_navn_-_2022-11-03T091813.865.png"
+            },
+            {
+                "name": "6x Calmel + Joseph Villa Blanche Pinot Noir 2021",
+                "price": 350,
+                "normalPrice": 650,
+                "imageUrl": "https://www.platinumwinesbarbados.com/cdn/shop/products/villa-blanche-pinot-noir-2019_jpg_480x.png?v=1696122416"
+            },
+            {
+                "name": "6x Cave De Beblenheim Alsace Pinot Noir 2021",
+                "price": 299,
+                "normalPrice": 550,
+                "imageUrl": "https://images.vivino.com/thumbs/W8e4hT78Th6xt-YIMLnYaQ_pb_600x600.png"
+            }
+        ],
         "opening_hours": {
             "open_now": false,
             "periods": [
@@ -2593,6 +2633,26 @@
             }
         },
         "name": "Vin p\u00e5 N\u00f8rrebro",
+        "sales": [
+            {
+                "name": "6x Chai d Oeuvre Pinot Noir 2022",
+                "price": 399,
+                "normalPrice": 600,
+                "imageUrl": "https://www.andrupvin.dk/media/wysiwyg/Design_uden_navn_-_2022-11-03T091813.865.png"
+            },
+            {
+                "name": "6x Calmel + Joseph Villa Blanche Pinot Noir 2021",
+                "price": 350,
+                "normalPrice": 650,
+                "imageUrl": "https://www.platinumwinesbarbados.com/cdn/shop/products/villa-blanche-pinot-noir-2019_jpg_480x.png?v=1696122416"
+            },
+            {
+                "name": "6x Cave De Beblenheim Alsace Pinot Noir 2021",
+                "price": 299,
+                "normalPrice": 550,
+                "imageUrl": "https://images.vivino.com/thumbs/W8e4hT78Th6xt-YIMLnYaQ_pb_600x600.png"
+            }
+        ],
         "opening_hours": {
             "open_now": false,
             "periods": [
@@ -2723,6 +2783,26 @@
             }
         },
         "name": "Vintro",
+        "sales": [
+            {
+                "name": "6x Chai d Oeuvre Pinot Noir 2022",
+                "price": 399,
+                "normalPrice": 600,
+                "imageUrl": "https://www.andrupvin.dk/media/wysiwyg/Design_uden_navn_-_2022-11-03T091813.865.png"
+            },
+            {
+                "name": "6x Calmel + Joseph Villa Blanche Pinot Noir 2021",
+                "price": 350,
+                "normalPrice": 650,
+                "imageUrl": "https://www.platinumwinesbarbados.com/cdn/shop/products/villa-blanche-pinot-noir-2019_jpg_480x.png?v=1696122416"
+            },
+            {
+                "name": "6x Cave De Beblenheim Alsace Pinot Noir 2021",
+                "price": 299,
+                "normalPrice": 550,
+                "imageUrl": "https://images.vivino.com/thumbs/W8e4hT78Th6xt-YIMLnYaQ_pb_600x600.png"
+            }
+        ],
         "opening_hours": {
             "open_now": false,
             "periods": [
@@ -5675,6 +5755,26 @@
             }
         },
         "name": "Windsor Fisk",
+        "sales": [
+            {
+                "name": "Lækre storm-tilbud torsdag: 5 flotte ferske håndskårne rødspættefileter",
+                "price": 75,
+                "normalPrice": 150,
+                "imageUrl": "https://kystfisken.dk/cdn/shop/files/Morksej-2KGTILBUD_800x.jpg?v=1699342641"
+            },
+            {
+                "name": "Lækre storm-tilbud fredag: hjemmelavede hummersuppe",
+                "price": 125,
+                "normalPrice": 300,
+                "imageUrl": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/411324553_869676241613852_420842349461346051_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=e30AdPSx524AX-6vhmM&_nc_ht=scontent-cph2-1.xx&oh=00_AfAu1uUX1fI0X8m5njIOWjZW9wkRM8GeXRDiB2Uc36XWhA&oe=65883AD3"
+            },
+            {
+                "name": "Lækre storm-tilbud fredag: hjemmelavede hummersuppe",
+                "price": 100,
+                "normalPrice": 210,
+                "imageUrl": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/410827407_869676248280518_8973953176239639345_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=ikXttu38Sx4AX8ul6Ic&_nc_ht=scontent-cph2-1.xx&oh=00_AfArBh3KbXE2uav_uOdeExsj8FfmjafiqbR7VTiAMaoSgg&oe=6587A58B"
+            }
+        ],
         "opening_hours": {
             "open_now": false,
             "periods": [
@@ -5818,6 +5918,26 @@
     {
         "formatted_address": "Gl. Kongevej 143, 1850 Frederiksberg, Denmark",
         "formatted_phone_number": "33 24 21 70",
+        "sales": [
+            {
+                "name": "Lækre storm-tilbud torsdag: 5 flotte ferske håndskårne rødspættefileter",
+                "price": 75,
+                "normalPrice": 150,
+                "imageUrl": "https://kystfisken.dk/cdn/shop/files/Morksej-2KGTILBUD_800x.jpg?v=1699342641"
+            },
+            {
+                "name": "Lækre storm-tilbud fredag: hjemmelavede hummersuppe",
+                "price": 125,
+                "normalPrice": 300,
+                "imageUrl": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/411324553_869676241613852_420842349461346051_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=e30AdPSx524AX-6vhmM&_nc_ht=scontent-cph2-1.xx&oh=00_AfAu1uUX1fI0X8m5njIOWjZW9wkRM8GeXRDiB2Uc36XWhA&oe=65883AD3"
+            },
+            {
+                "name": "Lækre storm-tilbud fredag: hjemmelavede hummersuppe",
+                "price": 100,
+                "normalPrice": 210,
+                "imageUrl": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/410827407_869676248280518_8973953176239639345_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=ikXttu38Sx4AX8ul6Ic&_nc_ht=scontent-cph2-1.xx&oh=00_AfArBh3KbXE2uav_uOdeExsj8FfmjafiqbR7VTiAMaoSgg&oe=6587A58B"
+            }
+        ],
         "geometry": {
             "location": {
                 "lat": 55.6768759,
@@ -5967,6 +6087,26 @@
     },
     {
         "formatted_address": "Godth\u00e5bsvej 203, 2720 K\u00f8benhavn, Denmark",
+        "sales": [
+            {
+                "name": "6x Chai d Oeuvre Pinot Noir 2022",
+                "price": 399,
+                "normalPrice": 600,
+                "imageUrl": "https://www.andrupvin.dk/media/wysiwyg/Design_uden_navn_-_2022-11-03T091813.865.png"
+            },
+            {
+                "name": "6x Calmel + Joseph Villa Blanche Pinot Noir 2021",
+                "price": 350,
+                "normalPrice": 650,
+                "imageUrl": "https://www.platinumwinesbarbados.com/cdn/shop/products/villa-blanche-pinot-noir-2019_jpg_480x.png?v=1696122416"
+            },
+            {
+                "name": "6x Cave De Beblenheim Alsace Pinot Noir 2021",
+                "price": 299,
+                "normalPrice": 550,
+                "imageUrl": "https://images.vivino.com/thumbs/W8e4hT78Th6xt-YIMLnYaQ_pb_600x600.png"
+            }
+        ],
         "formatted_phone_number": "38 32 18 50",
         "geometry": {
             "location": {
@@ -6255,6 +6395,26 @@
             }
         },
         "name": "Valby Fisk",
+        "sales": [
+            {
+                "name": "Lækre storm-tilbud torsdag: 5 flotte ferske håndskårne rødspættefileter",
+                "price": 75,
+                "normalPrice": 150,
+                "imageUrl": "https://kystfisken.dk/cdn/shop/files/Morksej-2KGTILBUD_800x.jpg?v=1699342641"
+            },
+            {
+                "name": "Lækre storm-tilbud fredag: hjemmelavede hummersuppe",
+                "price": 125,
+                "normalPrice": 300,
+                "imageUrl": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/411324553_869676241613852_420842349461346051_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=e30AdPSx524AX-6vhmM&_nc_ht=scontent-cph2-1.xx&oh=00_AfAu1uUX1fI0X8m5njIOWjZW9wkRM8GeXRDiB2Uc36XWhA&oe=65883AD3"
+            },
+            {
+                "name": "Lækre storm-tilbud fredag: hjemmelavede hummersuppe",
+                "price": 100,
+                "normalPrice": 210,
+                "imageUrl": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/410827407_869676248280518_8973953176239639345_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=ikXttu38Sx4AX8ul6Ic&_nc_ht=scontent-cph2-1.xx&oh=00_AfArBh3KbXE2uav_uOdeExsj8FfmjafiqbR7VTiAMaoSgg&oe=6587A58B"
+            }
+        ],
         "opening_hours": {
             "open_now": false,
             "periods": [
@@ -6388,6 +6548,26 @@
     {
         "formatted_address": "\u00d8sterbrogade 156, 2100 K\u00f8benhavn, Denmark",
         "formatted_phone_number": "35 38 28 06",
+        "sales": [
+            {
+                "name": "Lækre storm-tilbud torsdag: 5 flotte ferske håndskårne rødspættefileter",
+                "price": 75,
+                "normalPrice": 150,
+                "imageUrl": "https://kystfisken.dk/cdn/shop/files/Morksej-2KGTILBUD_800x.jpg?v=1699342641"
+            },
+            {
+                "name": "Lækre storm-tilbud fredag: hjemmelavede hummersuppe",
+                "price": 125,
+                "normalPrice": 300,
+                "imageUrl": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/411324553_869676241613852_420842349461346051_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=e30AdPSx524AX-6vhmM&_nc_ht=scontent-cph2-1.xx&oh=00_AfAu1uUX1fI0X8m5njIOWjZW9wkRM8GeXRDiB2Uc36XWhA&oe=65883AD3"
+            },
+            {
+                "name": "Lækre storm-tilbud fredag: hjemmelavede hummersuppe",
+                "price": 100,
+                "normalPrice": 210,
+                "imageUrl": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/410827407_869676248280518_8973953176239639345_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=ikXttu38Sx4AX8ul6Ic&_nc_ht=scontent-cph2-1.xx&oh=00_AfArBh3KbXE2uav_uOdeExsj8FfmjafiqbR7VTiAMaoSgg&oe=6587A58B"
+            }
+        ],
         "geometry": {
             "location": {
                 "lat": 55.70898529999999,
@@ -6528,6 +6708,26 @@
     {
         "formatted_address": "Herlev Torv 10, 2730 Herlev, Denmark",
         "formatted_phone_number": "44 91 34 34",
+        "sales": [
+            {
+                "name": "Lækre storm-tilbud torsdag: 5 flotte ferske håndskårne rødspættefileter",
+                "price": 75,
+                "normalPrice": 150,
+                "imageUrl": "https://kystfisken.dk/cdn/shop/files/Morksej-2KGTILBUD_800x.jpg?v=1699342641"
+            },
+            {
+                "name": "Lækre storm-tilbud fredag: hjemmelavede hummersuppe",
+                "price": 125,
+                "normalPrice": 300,
+                "imageUrl": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/411324553_869676241613852_420842349461346051_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=e30AdPSx524AX-6vhmM&_nc_ht=scontent-cph2-1.xx&oh=00_AfAu1uUX1fI0X8m5njIOWjZW9wkRM8GeXRDiB2Uc36XWhA&oe=65883AD3"
+            },
+            {
+                "name": "Lækre storm-tilbud fredag: hjemmelavede hummersuppe",
+                "price": 100,
+                "normalPrice": 210,
+                "imageUrl": "https://scontent-cph2-1.xx.fbcdn.net/v/t39.30808-6/410827407_869676248280518_8973953176239639345_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=ikXttu38Sx4AX8ul6Ic&_nc_ht=scontent-cph2-1.xx&oh=00_AfArBh3KbXE2uav_uOdeExsj8FfmjafiqbR7VTiAMaoSgg&oe=6587A58B"
+            }
+        ],
         "geometry": {
             "location": {
                 "lat": 55.7239508,
