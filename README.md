@@ -1,5 +1,7 @@
 # Special.ly
 
+![image](https://github.com/haharooted/special.ly/assets/23297071/33e8a45f-fb94-4532-ae0d-e981e31f0966)
+
 For at køre Special.ly
 
 Skal du
@@ -12,6 +14,7 @@ Skal du
 - npm install 
 
 - npm run start
+
 
 
 git l
