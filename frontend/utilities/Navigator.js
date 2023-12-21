@@ -6,6 +6,7 @@ import Ionicons from 'react-native-vector-icons/Ionicons'; // icons til senere
 import { LogBox } from 'react-native';
 import { createStackNavigator } from '@react-navigation/stack';
 LogBox.ignoreLogs(['No native splash screen registered for given view controller.']);
+LogBox.ignoreLogs(['Encountered two children with the same key']);
 
 //import FoundationIcon from 'react-native-vector-icons/Foundation';
 //import Fontisto from 'react-native-vector-icons/Fontisto';
@@ -19,7 +20,7 @@ import MaterialCommunityIcons from 'react-native-vector-icons/MaterialCommunityI
 
 // screenz
 import MainScreen from "../app/screens/MainScreen"; // 
-import SalesScreen from "../app/screens/SalesScreen"; // 
+import ShopScreen from "../app/screens/ShopScreen"; // 
 import MapScreen from "../app/screens/MapScreen"; // 
 //import TableScreen from "../screens/TableScreen"; // 
 import CreateEventScreen from "../app/screens/CreateEventScreen"; // 
@@ -89,11 +90,11 @@ const Navigator = () => {
         })}
       >
         <Tab.Screen name="Hjem" component={MainScreen} />
-        <Tab.Screen name="Tilbud" component={SalesScreen} />
+        <Tab.Screen name="Tilbud" component={ShopScreen} />
         {/*<Tab.Screen name="Map" component={MapScreen} />*/}
         {/* <Tab.Screen name="venner" component={FriendsScreen} />  */}
-        <Tab.Screen name="Events" component={NewEventsScreen} />
         <Tab.Screen name="Butikker" component={ShopScreenMap} />
+        <Tab.Screen name="Events" component={NewEventsScreen} />
         <Tab.Screen name="Profil" component={ProfileStackScreen} />
 
 

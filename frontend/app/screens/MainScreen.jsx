@@ -2,6 +2,8 @@ import React, { useState, useContext } from 'react';
 import { UserContext } from '../../utilities/UserContext';
 import { View, StyleSheet, Dimensions, ScrollView, Text } from 'react-native';
 import ShopScreenMap from './ShopScreenMap';
+import ShopScreen from './ShopScreen';
+
 import Ionicons from 'react-native-vector-icons/Ionicons';
 
 const MainScreen = () => {
@@ -17,7 +19,7 @@ const MainScreen = () => {
             <ScrollView style={styles.scrollView}>
                 <View style={styles.nearYouContainer}>
                     <Ionicons name="location-sharp" size={24} color="#333" />
-                    <Text style={styles.nearYouText}>Near you</Text>
+                    <Text style={styles.nearYouText}>Hyggelige butikker i dit område</Text>
                 </View>
 
                 {/* Display the name of the clicked item, if any */}
@@ -31,6 +33,15 @@ const MainScreen = () => {
 
                 <View style={styles.mapContainer}>
                     <ShopScreenMap onMapItemClick={handleMapItemClick} />
+                </View>
+
+                <View style={styles.nearYouContainer}>
+                    <Ionicons name="star" size={24} color="#333" />
+                    <Text style={styles.nearYouText}>Tilbud fra dine favoritter</Text>
+                </View>
+
+                <View style={styles.mapContainer}>
+                    <ShopScreen />
                 </View>
 
                 {/* Additional rows of content can be added here */}

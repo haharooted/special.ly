@@ -331,7 +331,7 @@
         "opening_hours": {
             "open_now": false,
             "periods": [
-                {
+                {   
                     "close": {
                         "day": 1,
                         "time": "1800"
@@ -2016,6 +2016,26 @@
                 "lng": 12.5816161
             }
         },
+        "sales": [
+            {
+                "name": "Lækkert december tilbud: Blåskimmelost 1kg",
+                "price": 150,
+                "normalPrice": 280,
+                "imageUrl": "https://www.caseus.dk/wp-content/uploads/2023/07/Blaaskimmel-ost-caseus-roskilde-300x150.jpg"
+            },
+            {
+                "name": "Lækkert advent tilbud: gedeost 1kg",
+                "price": 150,
+                "normalPrice": 270,
+                "imageUrl": "https://www.caseus.dk/wp-content/uploads/2023/07/Gedeost-caseus-roskilde-300x150.jpg"
+            },
+            {
+                "name": "Lækkert advent tilbud: fåreost 1kg",
+                "price": 130,
+                "normalPrice": 250,
+                "imageUrl": "https://www.caseus.dk/wp-content/uploads/2023/07/Faareost-caseus-roskilde-300x150.jpg"
+            }
+        ],
         "name": "Ostek\u00e6lderen",
         "rating": 4.7,
         "reviews": [

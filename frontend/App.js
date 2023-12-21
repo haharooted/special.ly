@@ -5,6 +5,8 @@ import { UserProvider } from './utilities/UserContext';
 import * as Location from 'expo-location/src/Location';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
+//const brugDatabase = false // true hvis mongoDB skal bruges og ikke test data
+
 const App = () => {
   useEffect(() => {
     // Request location permissions and log initial location
